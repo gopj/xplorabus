@@ -339,42 +339,42 @@
 				<img class="media-object" src="img/home/destination.jpg" alt="Destination">
 			</a>
 			<div class="media-body">
-				<h3 class="media-heading">Choose <br>Your Destination</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+				<h3 class="media-heading">SELECCIONA <br>TU DESTINO</h3>
+				<!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p> -->
 				<div class="clearfix">
 				<ul class="list-unstyled">
-					<li><i class="fa fa-minus" aria-hidden="true"></i>Asia</li>
-					<li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>Aenean</a></li>
-					<li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>Etiam</a></li>
-					<li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>Donec</a></li>
+					<li><i class="fa fa-minus" aria-hidden="true"></i>JALISCO</li>
+					<li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>MAZAMITLA</a></li>
+					<li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>TAPALPA</a></li>
+					<li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>PTO. VALLARTA</a></li>
 				</ul>
 				<ul class="list-unstyled">
-					<li><i class="fa fa-minus" aria-hidden="true"></i>Europe</li>
-					<li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>Maecenas</a></li>
-					<li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>Cras Sagittis</a></li>
-					<li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>Vestibulum</a></li>
+					<li><i class="fa fa-minus" aria-hidden="true"></i>MONTERREY</li>
+					<li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>XXXX</a></li>
+					<li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>XXXX</a></li>
+					<li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>XXXX</a></li>
 				</ul>
 				<ul class="list-unstyled">
-					<li><i class="fa fa-minus" aria-hidden="true"></i>America</li>
-					<li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>Morbi Sed</a></li>
-					<li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>Pellentesque</a></li>
-					<li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>Proin</a></li>
+					<li><i class="fa fa-minus" aria-hidden="true"></i>GUANAJUATO</li>
+					<li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>LEON</a></li>
+					<li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>HIDALGO</a></li>
+					<li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>XXXX</a></li>
 				</ul>
 				<ul class="list-unstyled">
-					<li><i class="fa fa-minus" aria-hidden="true"></i>Africa</li>
-					<li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>Duis Eu</a></li>
-					<li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>Morbi Nisl</a></li>
-					<li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>Curabitur</a></li>
+					<li><i class="fa fa-minus" aria-hidden="true"></i>XXXXXX</li>
+					<li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>XXXX</a></li>
+					<li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>XXXX</a></li>
+					<li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>XXXX</a></li>
 				</ul>
 				<ul class="list-unstyled">
-					<li><i class="fa fa-minus" aria-hidden="true"></i>Australia</li>
-					<li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>Vivamus</a></li>
-					<li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>Nibh Odio</a></li>
-					<li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>Dictum</a></li>
+					<li><i class="fa fa-minus" aria-hidden="true"></i>XXXXX</li>
+					<li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>XXXXX</a></li>
+					<li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>XXXXX</a></li>
+					<li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>XXXXX</a></li>
 				</ul>
 				</div>
 				<div class="media-btn">
-				<a href="destination-cities.html" class="btn buttonTransparent">View All</a>
+				<a href="destination-cities.html" class="btn buttonTransparent">VER TODO</a>
 				</div>
 			</div>
 			</div>
