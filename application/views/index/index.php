@@ -24,7 +24,7 @@
 				data-endspeed="300"
 				data-endeasing="Power1.easeIn"
 				data-captionhidden="off">
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex consequat.
+					<!-- Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex consequat. -->
 				</div>
 				<div class="tp-caption rs-caption-3 sft"
 				data-hoffset="0"
@@ -63,7 +63,7 @@
 				data-endspeed="300"
 				data-endeasing="Power1.easeIn"
 				data-captionhidden="off">
-				Maecenas nec sodales justo. Vivamus auctor pulvinar mattis. Ut at elementum nunc. Quisque condimentum ligula ante, non luctus enim pulvinar sed. Fusce quis congue odio.
+				<!-- Maecenas nec sodales justo. Vivamus auctor pulvinar mattis. Ut at elementum nunc. Quisque condimentum ligula ante, non luctus enim pulvinar sed. Fusce quis congue odio. -->
 				</div>
 				<div class="tp-caption rs-caption-3 sft text-center"
 				data-hoffset="0"
@@ -100,7 +100,7 @@
 				data-endspeed="300"
 				data-endeasing="Power1.easeIn"
 				data-captionhidden="off">
-				Aenean congue nisi elit, vitae viverra leo luctus et. Donec interdum erat id mi scelerisque, vitae ullamcorper lorem gravida. Nunc sed maximus ante. Nulla dictum turpis vitae vehicula auctor.
+				<!-- Aenean congue nisi elit, vitae viverra leo luctus et. Donec interdum erat id mi scelerisque, vitae ullamcorper lorem gravida. Nunc sed maximus ante. Nulla dictum turpis vitae vehicula auctor. -->
 				</div>
 				<div class="tp-caption rs-caption-3 sft"
 				data-hoffset="0"
@@ -137,7 +137,7 @@
 				data-endspeed="300"
 				data-endeasing="Power1.easeIn"
 				data-captionhidden="off">
-				Maecenas et leo nec nunc rutrum tempor. Mauris pharetra porttitor odio eget convallis. Praesent facilisis mattis pretium. Aliquam sagittis efficitur risus, interdum euismod urna. Pellentesque vel augue augue.
+				<!-- Maecenas et leo nec nunc rutrum tempor. Mauris pharetra porttitor odio eget convallis. Praesent facilisis mattis pretium. Aliquam sagittis efficitur risus, interdum euismod urna. Pellentesque vel augue augue. -->
 				</div>
 				<div class="tp-caption rs-caption-3 sft text-center"
 				data-hoffset="0"
@@ -232,7 +232,7 @@
 			</div>
 			<div class="caption">
 				<h4><a href="single-package-fullwidth.html" class="captionTitle">Descripción</a></h4>
-				<p>Proin convallis magna vel libero accumsan sollicitudin. Quisque dapibus vitae turpis eu magna sagittis.</p>
+				<p><!-- Proin convallis magna vel libero accumsan sollicitudin. Quisque dapibus vitae turpis eu magna sagittis. --></p>
 				<div class="detailsInfo">
 				<h5>
 					<span>Desde</span>
