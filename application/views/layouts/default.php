@@ -168,7 +168,7 @@
 			</div>
 			<div class="col-sm-6 col-sm-pull-6 col-xs-12">
 			<div class="copyRightText">
-				<p>Copyright © 2016. All Rights Reserved by <a target="_blank" href="http://www.iamabdus.com/">Abdus</a>.</p>
+				<p>Copyright © <?=date("Y");?>. All Rights Reserved by <a target="_blank" href="http://www.gopycom.net/">gopycom</a>.</p>
 			</div>
 			</div>
 		</div>

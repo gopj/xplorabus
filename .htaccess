@@ -4,3 +4,5 @@
 	RewriteCond %{REQUEST_FILENAME} !-d
 	RewriteRule ^(.*)$ /xplorabus/index.php/$1 [L]
 </IfModule>
+
+Header add Access-Control-Allow-Origin "xplorabus.com"
