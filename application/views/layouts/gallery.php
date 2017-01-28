@@ -1,62 +1,66 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
 
-<!-- SITE TITTLE -->
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Xplorabus</title>
+  <!-- SITE TITTLE -->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Xplorabus - Galería</title>
+  
+  <!-- PLUGINS CSS STYLE -->
+  <link href="<?=base_url();?>plugins/jquery-ui/jquery-ui.css" rel="stylesheet">
+  <link href="<?=base_url();?>plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="<?=base_url();?>plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="<?=base_url();?>plugins/rs-plugin/css/settings.css" media="screen">
+  <link rel="stylesheet" type="text/css" href="<?=base_url();?>plugins/selectbox/select_option1.css">
+  <link rel="stylesheet" type="text/css" href="<?=base_url();?>plugins/datepicker/datepicker.css">
+  <link rel="stylesheet" type="text/css" href="<?=base_url();?>plugins/isotope/jquery.fancybox.css">
+  <link rel="stylesheet" type="text/css" href="<?=base_url();?>plugins/isotope/isotope.css">
 
-<!-- PLUGINS CSS STYLE -->
-<link href="<?=base_url();?>plugins/jquery-ui/jquery-ui.css" rel="stylesheet">
-<link href="<?=base_url();?>plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-<link href="<?=base_url();?>plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-<link rel="stylesheet" type="text/css" href="<?=base_url();?>plugins/rs-plugin/css/settings.css" media="screen">
-<link rel="stylesheet" type="text/css" href="<?=base_url();?>plugins/selectbox/select_option1.css">
-<link rel="stylesheet" type="text/css" href="<?=base_url();?>plugins/datepicker/datepicker.css">
-<link rel="stylesheet" type="text/css" href="<?=base_url();?>plugins/isotope/jquery.fancybox.css">
-<link rel="stylesheet" type="text/css" href="<?=base_url();?>plugins/isotope/isotope.css">
+  <!-- GOOGLE FONT -->
+  <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+  
+  <!-- CUSTOM CSS -->
+  <link href="<?=base_url();?>css/style.css" rel="stylesheet">
+  <link rel="stylesheet" href="<?=base_url();?>css/colors/default.css" id="option_color">
 
-<!-- GOOGLE FONT -->
-<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+  <!-- FAVICON -->
+  <link rel="shortcut icon" type="image/png" href="<?=base_url();?>img/favicon.png"/>
 
-<!-- CUSTOM CSS -->
-<link href="<?=base_url();?>css/style.css" rel="stylesheet">
-<link rel="stylesheet" href="<?=base_url();?>css/colors/default.css" id="option_color">
-
-
-<!-- FAVICON -->
-<link rel="shortcut icon" type="image/png" href="<?=base_url();?>img/favicon.png"/>
-
+  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <![endif]-->
 
 </head>
 
-<body class="changeHeader">
-	<div class="main-wrapper">
+<body>
+  <div class="main-wrapper">
 
-	<!-- HEADER -->
-	<header>
-		<nav class="navbar navbar-default navbar-main navbar-fixed-top" role="navigation">
-		<div class="container">
-
-			<!-- Brand and toggle get grouped for better mobile display -->
-			<div class="navbar-header" style="width:180x; height:75px;border:0;">
-				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-				<span class="sr-only">Toggle navigation</span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				</button>
-				<a class="navbar-brand" href="<?= base_url(); ?>"></a>
-			</div>
-
-			<!-- Collect the nav links, forms, and other content for toggling -->
+    <!-- HEADER -->
+    <header>
+      <nav class="navbar navbar-default navbar-main navbar-fixed-top lightHeader" role="navigation">
+        <div class="container">
+        
+          <!-- Brand and toggle get grouped for better mobile display -->
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="index.html"></a>
+          </div>
+      
+          <!-- Collect the nav links, forms, and other content for toggling -->
 			<div class="collapse navbar-collapse navbar-ex1-collapse">
 				<ul class="nav navbar-nav navbar-right">
-					<li class="active dropdown singleDrop">
-						<a href="#">Inicio</a>
+					<li class="dropdown singleDrop">
+						<a href="<?=base_url();?>">Inicio</a>
 					</li>
 					<li class="dropdown megaDropMenu">
 						<a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="300" data-close-others="true" aria-expanded="false">Paquetes</a>
@@ -68,7 +72,7 @@
 									<li><a href="packages-grid-right-sidebar.html">Packages Sidebar Right</a></li>
 									<li><a href="packages-grid.html">Packages 3 Columns</a></li>
 								</ul>
-							</li>|
+							</li>
 							<li class="col-sm-3 col-xs-12">
 								<ul class="list-unstyled">
 									<li>Tour Packages List View</li>
@@ -86,7 +90,7 @@
 							<li><a href="destination-single-city.html">Single Destination</a></li>
 						</ul>
 					</li>
-					<li class="dropdown singleDrop">
+					<li class="active dropdown singleDrop">
 						<a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Galería</a>
 						<ul class="dropdown-menu dropdown-menu-right">
 							<li><a href="<?=base_url();?>gallery/exteriores"> Exteriores </a></li>
@@ -99,10 +103,9 @@
 		</nav>
 	</header>
 
-	<?php echo $output; ?>
+    <?php echo $output; ?>
 
-	
-	<!-- FOOTER -->
+   <!-- FOOTER -->
 	<footer>
 	<div class="footer clearfix">
 		<div class="container">
@@ -182,7 +185,7 @@
 			</div>
 			<div class="col-sm-6 col-sm-pull-6 col-xs-12">
 			<div class="copyRightText">
-				<p>Copyright © 2016. All Rights Reserved by <a target="_blank" href="http://www.iamabdus.com/">Abdus</a>.</p>
+				<p>Copyright © 2017. All Rights Reserved by <a target="_blank" href="http://www.iamabdus.com/">Abdus</a>.</p>
 			</div>
 			</div>
 		</div>
@@ -243,4 +246,3 @@
 </body>
 
 </html>
-

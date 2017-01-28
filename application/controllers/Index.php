@@ -10,7 +10,18 @@ class Index extends My_Controller {
 
 	public function index() {
 
-		$this->load->view('index/index');
+
+		$this->load->view('index');
+
 	}
+
+	public function test() {
+
+		echo "test";
+
+		$this->load->view('index');
+
+	}
+
 }
 
