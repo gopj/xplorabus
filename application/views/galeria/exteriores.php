@@ -46,6 +46,7 @@
 											<li data-target="#package-carousel" data-slide-to="0" class="active"><img src="<?=base_url('img/gallery/gallery-single-thumb-01.jpg');?>"></li>
 											<li data-target="#package-carousel" data-slide-to="1" class=""><img src="<?=base_url('img/gallery/gallery-single-thumb-02.jpg');?>"></li>
 											<li data-target="#package-carousel" data-slide-to="2" class=""><img src="<?=base_url('img/gallery/gallery-single-thumb-03.jpg');?>"></li>
+											<li data-target="#package-carousel" data-slide-to="2" class=""><img src="<?=base_url('img/gallery/gallery-single-thumb-04.jpg');?>"></li>
 										</ol>
 										<div class="carousel-inner">
 											<div class="item active">
@@ -56,6 +57,9 @@
 											</div>
 											<div class="item">
 												<img alt="Third slide" src="<?=base_url();?>img/gallery/gallery-single-slider-03.jpg">
+											</div>
+											<div class="item">
+												<img alt="Third slide" src="<?=base_url();?>img/gallery/gallery-single-slider-04.jpg">
 											</div>
 										</div>
 										<a class="left carousel-control" href="#package-carousel" data-slide="prev"><span class="glyphicon glyphicon-menu-left"></span></a>
