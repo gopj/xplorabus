@@ -8,14 +8,12 @@ class Gallery extends My_Controller {
 		$this->setLayout('gallery');
 	}
 
-	public function exteriores(){
-		$this->load->view('galeria/exteriores');
-		/*echo site_url();
-		echo base_url();*/
+	public function autobuses(){
+		$this->load->view('galeria/autobuses');
 	}
 
-	public function interiores(){
-		$this->load->view('galeria/interiores');
+	public function videos(){
+		$this->load->view('galeria/videos');
 	}
 }
 

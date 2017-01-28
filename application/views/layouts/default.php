@@ -56,41 +56,27 @@
 			<div class="collapse navbar-collapse navbar-ex1-collapse">
 				<ul class="nav navbar-nav navbar-right">
 					<li class="active dropdown singleDrop">
-						<a href="#">Inicio</a>
+						<a href="<?= base_url(); ?>">Inicio</a>
 					</li>
-					<li class="dropdown megaDropMenu">
-						<a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="300" data-close-others="true" aria-expanded="false">Paquetes</a>
-						<ul class="row dropdown-menu">
-							<li class="col-sm-3 col-xs-12">
-								<ul class="list-unstyled">
-									<li>Tour Packages Grid View</li>
-									<li><a href="packages-grid-left-sidebar.html">Packages Sidebar Left</a></li>
-									<li><a href="packages-grid-right-sidebar.html">Packages Sidebar Right</a></li>
-									<li><a href="packages-grid.html">Packages 3 Columns</a></li>
-								</ul>
-							</li>|
-							<li class="col-sm-3 col-xs-12">
-								<ul class="list-unstyled">
-									<li>Tour Packages List View</li>
-									<li><a href="packages-list-left-sidebar.html">Packages Sidebar Left</a></li>
-									<li><a href="packages-list-right-sidebar.html">Packages Sidebar Right</a></li>
-									<li><a href="packages-list.html">Packages List</a></li>
-								</ul>
-							</li>
+					<li class="dropdown singleDrop">
+						<a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Paquetes</a>
+						<ul class="dropdown-menu dropdown-menu-left">
+							<li><a href="#">Paquete 1</a></li>
+							<li><a href="#">Paquete 2</a></li>
 						</ul>
 					</li>
 					<li class="dropdown singleDrop">
 						<a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Destinos</a>
 						<ul class="dropdown-menu dropdown-menu-left">
-							<li><a href="destination-cities.html">Destination Cities</a></li>
-							<li><a href="destination-single-city.html">Single Destination</a></li>
+							<li><a href="#">Pueblos Mágicos</a></li>
+							<li><a href="#">Ciudades</a></li>
 						</ul>
 					</li>
 					<li class="dropdown singleDrop">
 						<a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Galería</a>
 						<ul class="dropdown-menu dropdown-menu-right">
-							<li><a href="<?=base_url();?>gallery/exteriores"> Exteriores </a></li>
-							<li><a href="#">Interiores</a></li>
+							<li><a href="<?=base_url();?>gallery/autobuses"> Autobuses </a></li>
+							<li><a href="<?=base_url();?>gallery/videos"> Videos </a></li>
 						</ul>
 					</li>
 				</ul>
