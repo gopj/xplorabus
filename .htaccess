@@ -5,4 +5,4 @@
 	RewriteRule ^(.*)$ /xplorabus/index.php/$1 [L]
 </IfModule>
 
-Header add Access-Control-Allow-Origin "xplorabus.com"
+Header add Access-Control-Allow-Origin "*"
