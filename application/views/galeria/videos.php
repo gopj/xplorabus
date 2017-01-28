@@ -37,15 +37,17 @@
 
 					<!-- Tab panes -->
 					<div class="tab-content">
-						<div role="tabpanel" class="tab-pane active" id="pez-vela-travel"> <!-- PB IRIZAR -->
-							
-							<div class="col-xs-12">
-								<iframe width="1120" height="630" src="https://www.youtube.com/embed/9GDaB0OuYsY" frameborder="0" allowfullscreen></iframe>
+						<div role="tabpanel" class="tab-pane active" id="pez-vela-travel"> <!-- Pez Vela Travel Video -->
+							<div class="row">
+								<div class="col-sm-12">
+									<div class="embed-responsive embed-responsive-16by9">
+										<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9GDaB0OuYsY" frameborder="0" allowfullscreen></iframe>
+									</div>
+								</div>
 							</div>
-							
-						</div><!-- PB IRIZAR -->
+						</div><!--/ Pez Vela Travel Video -->
 
-					</div> <!-- Tab panes -->
+					</div> <!--/ Tab panes -->
 				</div>
 			</div>
 		</div>
