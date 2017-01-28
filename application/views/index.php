@@ -172,7 +172,7 @@
 		<div class="col-sm-4 col-xs-12">
 			<div class="thumbnail deals">
 			<img src="<?=base_url('img/home/deal/deal-01.jpg')?>" alt="deal-image">
-			<a href="single-package-right-sidebar.html" class="pageLink"></a>
+			<a href="" class="pageLink"></a>
 			<div class="discountInfo">
 				<div class="discountOffer">
 				<h4>
@@ -193,7 +193,7 @@
 				</ul>
 			</div>
 			<div class="caption">
-				<h4><a href="single-package-right-sidebar.html" class="captionTitle">Descripción</a></h4>
+				<h4><a href="" class="captionTitle">Descripción</a></h4>
 				<p>Integer purus ex, dictum nec elementum eu, tristique vel lectus. Donec rutrum lectus et pharetra egestas.</p>
 				<div class="detailsInfo">
 				<h5>
@@ -201,7 +201,7 @@
 					$299
 				</h5>
 				<ul class="list-inline detailsBtn">
-					<li><a href="single-package-right-sidebar.html" class="btn buttonTransparent">Detalles</a></li>
+					<li><a href="" class="btn buttonTransparent">Detalles</a></li>
 				</ul>
 				</div>
 			</div>
@@ -210,7 +210,7 @@
 		<div class="col-sm-4 col-xs-12">
 			<div class="thumbnail deals">
 			<img src="<?=base_url('img/home/deal/deal-02.jpg')?>" alt="deal-image">
-			<a href="single-package-fullwidth.html" class="pageLink"></a>
+			<a href="" class="pageLink"></a>
 			<div class="discountInfo">
 				<div class="discountOffer">
 				<h4>
@@ -231,7 +231,7 @@
 				</ul>
 			</div>
 			<div class="caption">
-				<h4><a href="single-package-fullwidth.html" class="captionTitle">Descripción</a></h4>
+				<h4><a href="" class="captionTitle">Descripción</a></h4>
 				<p><!-- Proin convallis magna vel libero accumsan sollicitudin. Quisque dapibus vitae turpis eu magna sagittis. --></p>
 				<div class="detailsInfo">
 				<h5>
@@ -239,7 +239,7 @@
 					$499
 				</h5>
 				<ul class="list-inline detailsBtn">
-					<li><a href="single-package-fullwidth.html" class="btn buttonTransparent">Detalles</a></li>
+					<li><a href="" class="btn buttonTransparent">Detalles</a></li>
 				</ul>
 				</div>
 			</div>
@@ -248,7 +248,7 @@
 		<div class="col-sm-4 col-xs-12">
 			<div class="thumbnail deals">
 			<img src="<?=base_url('img/home/deal/deal-03.jpg')?>" alt="deal-image">
-			<a href="single-package-left-sidebar.html" class="pageLink"></a>
+			<a href="" class="pageLink"></a>
 			<div class="discountInfo">
 				<div class="discountOffer">
 				<h4>
@@ -269,7 +269,7 @@
 				</ul>
 			</div>
 			<div class="caption">
-				<h4><a href="single-package-left-sidebar.html" class="captionTitle">Descripción</a></h4>
+				<h4><a href="" class="captionTitle">Descripción</a></h4>
 				<p>Vivamus eu mattis nibh. Quisque eget ipsum at odio fringilla consequat vel id erat. Suspendisse non feugiat mi.</p>
 				<div class="detailsInfo">
 				<h5>
@@ -277,7 +277,7 @@
 					$399
 				</h5>
 				<ul class="list-inline detailsBtn">
-					<li><a href="single-package-left-sidebar.html" class="btn buttonTransparent">Details</a></li>
+					<li><a href="" class="btn buttonTransparent">Details</a></li>
 				</ul>
 				</div>
 			</div>
@@ -287,7 +287,7 @@
 		<div class="row">
 		<div class="col-xs-12">
 			<div class="btnArea">
-			<a href="packages-grid.html" class="btn buttonTransparent">view all</a>
+			<a href="" class="btn buttonTransparent">Ver Detalles</a>
 			</div>
 		</div>
 		</div>
@@ -312,7 +312,7 @@
 					<li><i class="fa fa-star" aria-hidden="true"></i></li>
 				</ul>
 				<p>$1,000 por persona</p>
-				<a href="single-package-right-sidebar.html" class="btn buttonCustomPrimary">View Details</a>
+				<a href="" class="btn buttonCustomPrimary">Ver Detalles</a>
 				</div>
 			</div>
 			</div>
@@ -335,7 +335,7 @@
 		<div class="row">
 		<div class="col-xs-12">
 			<div class="media destinations">
-			<a class="media-left" href="destination-cities.html">
+			<a class="media-left" href="">
 				<img class="media-object" src="<?=base_url('img/home/destination.jpg" alt')?>="Destination">
 			</a>
 			<div class="media-body">
@@ -344,37 +344,37 @@
 				<div class="clearfix">
 				<ul class="list-unstyled">
 					<li><i class="fa fa-minus" aria-hidden="true"></i>JALISCO</li>
-					<li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>MAZAMITLA</a></li>
-					<li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>TAPALPA</a></li>
-					<li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>PTO. VALLARTA</a></li>
+					<li><a href=""><i class="fa fa-square" aria-hidden="true"></i>MAZAMITLA</a></li>
+					<li><a href=""><i class="fa fa-square" aria-hidden="true"></i>TAPALPA</a></li>
+					<li><a href=""><i class="fa fa-square" aria-hidden="true"></i>PTO. VALLARTA</a></li>
 				</ul>
 				<ul class="list-unstyled">
 					<li><i class="fa fa-minus" aria-hidden="true"></i>MONTERREY</li>
-					<li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>XXXX</a></li>
-					<li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>XXXX</a></li>
-					<li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>XXXX</a></li>
+					<li><a href=""><i class="fa fa-square" aria-hidden="true"></i>XXXX</a></li>
+					<li><a href=""><i class="fa fa-square" aria-hidden="true"></i>XXXX</a></li>
+					<li><a href=""><i class="fa fa-square" aria-hidden="true"></i>XXXX</a></li>
 				</ul>
 				<ul class="list-unstyled">
 					<li><i class="fa fa-minus" aria-hidden="true"></i>GUANAJUATO</li>
-					<li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>LEON</a></li>
-					<li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>HIDALGO</a></li>
-					<li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>XXXX</a></li>
+					<li><a href=""><i class="fa fa-square" aria-hidden="true"></i>LEON</a></li>
+					<li><a href=""><i class="fa fa-square" aria-hidden="true"></i>HIDALGO</a></li>
+					<li><a href=""><i class="fa fa-square" aria-hidden="true"></i>XXXX</a></li>
 				</ul>
 				<ul class="list-unstyled">
 					<li><i class="fa fa-minus" aria-hidden="true"></i>XXXXXX</li>
-					<li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>XXXX</a></li>
-					<li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>XXXX</a></li>
-					<li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>XXXX</a></li>
+					<li><a href=""><i class="fa fa-square" aria-hidden="true"></i>XXXX</a></li>
+					<li><a href=""><i class="fa fa-square" aria-hidden="true"></i>XXXX</a></li>
+					<li><a href=""><i class="fa fa-square" aria-hidden="true"></i>XXXX</a></li>
 				</ul>
 				<ul class="list-unstyled">
 					<li><i class="fa fa-minus" aria-hidden="true"></i>XXXXX</li>
-					<li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>XXXXX</a></li>
-					<li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>XXXXX</a></li>
-					<li><a href="destination-single-city.html"><i class="fa fa-square" aria-hidden="true"></i>XXXXX</a></li>
+					<li><a href=""><i class="fa fa-square" aria-hidden="true"></i>XXXXX</a></li>
+					<li><a href=""><i class="fa fa-square" aria-hidden="true"></i>XXXXX</a></li>
+					<li><a href=""><i class="fa fa-square" aria-hidden="true"></i>XXXXX</a></li>
 				</ul>
 				</div>
 				<div class="media-btn">
-				<a href="destination-cities.html" class="btn buttonTransparent">VER TODO</a>
+				<a href="" class="btn buttonTransparent">VER TODO</a>
 				</div>
 			</div>
 			</div>
@@ -433,7 +433,7 @@
 		<div class="row">
 		<div class="col-xs-12">
 			<div class="sectionTitle">
-			<h2><span>Our Packages</span></h2>
+			<h2><span>Nuestros Paquetes</span></h2>
 			<p>Ut facilisis facilisis metus quis semper</p>
 			</div>
 		</div>
@@ -442,10 +442,10 @@
 		<div class="col-xs-12">
 			<div class="filter-container isotopeFilters">
 			<ul class="list-inline filter">
-				<li class="active"><a href="#" data-filter="*">All Places</a></li>
-				<li><a href="#" data-filter=".asia">Asia</a></li>
-				<li><a href="#" data-filter=".america">America</a></li>
-				<li><a href="#" data-filter=".africa">Africa</a></li>
+				<li class="active"><a href="#" data-filter="*">Todos</a></li>
+				<li><a href="#" data-filter=".asia">Jalisco</a></li>
+				<li><a href="#" data-filter=".america">Colima</a></li>
+				<li><a href="#" data-filter=".africa">Michoacán</a></li>
 			</ul>
 			</div>
 		</div>
@@ -460,9 +460,9 @@
 					<div class="inner"></div>
 				</div>
 				<div class="overlay">
-					<a class="fancybox-pop" href="single-package-fullwidth.html">
+					<a class="fancybox-pop" href="">
 					<div class="overlayInfo">
-					<h5>from <span>$399</span></h5>
+					<h5>desde <span>$399</span></h5>
 					<p><i class="fa fa-calendar" aria-hidden="true"></i>27 Jan, 2017</p>
 					</div>
 					</a>
@@ -479,9 +479,9 @@
 					<div class="inner"></div>
 				</div>
 				<div class="overlay">
-				<a class="fancybox-pop" href="single-package-fullwidth.html">
+				<a class="fancybox-pop" href="">
 					<div class="overlayInfo">
-						<h5>from <span>$599</span></h5>
+						<h5>desde <span>$599</span></h5>
 						<p><i class="fa fa-calendar" aria-hidden="true"></i>09 Feb, 2017</p>
 					</div>
 					</a>
@@ -498,9 +498,9 @@
 					<div class="inner"></div>
 				</div>
 				<div class="overlay">
-					<a class="fancybox-pop" href="single-package-fullwidth.html">
+					<a class="fancybox-pop" href="">
 					<div class="overlayInfo">
-					<h5>from <span>$299</span></h5>
+					<h5>desde <span>$299</span></h5>
 					<p><i class="fa fa-calendar" aria-hidden="true"></i>14 Feb, 2017</p>
 					</div>
 					</a>
@@ -517,9 +517,9 @@
 					<div class="inner"></div>
 				</div>
 				<div class="overlay">
-					<a class="fancybox-pop" href="single-package-fullwidth.html">
+					<a class="fancybox-pop" href="">
 					<div class="overlayInfo">
-					<h5>from <span>$399</span></h5>
+					<h5>desde <span>$399</span></h5>
 					<p><i class="fa fa-calendar" aria-hidden="true"></i>11 Jan, 2017</p>
 					</div>
 					</a>
@@ -536,9 +536,9 @@
 					<div class="inner"></div>
 				</div>
 				<div class="overlay">
-					<a class="fancybox-pop" href="single-package-fullwidth.html">
+					<a class="fancybox-pop" href="">
 					<div class="overlayInfo">
-					<h5>from <span>$199</span></h5>
+					<h5>desde <span>$199</span></h5>
 					<p><i class="fa fa-calendar" aria-hidden="true"></i>02 Feb, 2017</p>
 					</div>
 					</a>
@@ -555,9 +555,9 @@
 					<div class="inner"></div>
 				</div>
 				<div class="overlay">
-					<a class="fancybox-pop" href="single-package-fullwidth.html">
+					<a class="fancybox-pop" href="">
 					<div class="overlayInfo">
-					<h5>from <span>$799</span></h5>
+					<h5>desde <span>$799</span></h5>
 					<p><i class="fa fa-calendar" aria-hidden="true"></i>26 Feb, 2017</p>
 					</div>
 					</a>
