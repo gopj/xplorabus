@@ -41,75 +41,76 @@
   <div class="main-wrapper">
 
     <!-- HEADER -->
-    <header>
-      <nav class="navbar navbar-default navbar-main navbar-fixed-top lightHeader" role="navigation">
-        <div class="container">
-        
-          <!-- Brand and toggle get grouped for better mobile display -->
-          <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-              <span class="sr-only">Toggle navigation</span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand" href="<?=base_url();?>"></a>
-          </div>
-      
-          <!-- Collect the nav links, forms, and other content for toggling -->
-			<div class="collapse navbar-collapse navbar-ex1-collapse">
-				<ul class="nav navbar-nav navbar-right">
-					<li class="dropdown singleDrop">
-						<a href="<?= base_url(); ?>">Inicio</a>
-					</li>
-					<li class="dropdown singleDrop">
-						<a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Paquetes</a>
-						<ul class="dropdown-menu dropdown-menu-left">
-							<li><a href="#">Paquete 1</a></li>
-							<li><a href="#">Paquete 2</a></li>
-						</ul>
-					</li>
-					<li class="dropdown singleDrop">
-						<a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Destinos</a>
-						<ul class="dropdown-menu dropdown-menu-left">
-							<li><a href="#">Pueblos Mágicos</a></li>
-							<li><a href="#">Ciudades</a></li>
-						</ul>
-					</li>
-					<li class="active dropdown singleDrop">
-						<a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Galería</a>
-						<ul class="dropdown-menu dropdown-menu-right">
-							<li><a href="<?=base_url();?>gallery/autobuses"> Autobuses </a></li>
-							<li><a href="<?=base_url();?>gallery/videos"> Videos </a></li>
-						</ul>
-					</li>
-				</ul>
+	<header>
+		<nav class="navbar navbar-default navbar-main navbar-fixed-top lightHeader" role="navigation">
+			<div class="container">
+
+				<!-- Brand and toggle get grouped for better mobile display -->
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<a class="navbar-brand" href="<?=base_url();?>"></a>
+				</div>
+
+				<!-- Collect the nav links, forms, and other content for toggling -->
+				<div class="collapse navbar-collapse navbar-ex1-collapse">
+					<ul class="nav navbar-nav navbar-right">
+						<li class="dropdown singleDrop">
+							<a href="<?= base_url(); ?>">Inicio</a>
+						</li>
+						<li class="dropdown singleDrop">
+							<a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Paquetes</a>
+							<ul class="dropdown-menu dropdown-menu-left">
+								<li><a href="#">Paquete 1</a></li>
+								<li><a href="#">Paquete 2</a></li>
+							</ul>
+						</li>
+						<li class="dropdown singleDrop">
+							<a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Destinos</a>
+							<ul class="dropdown-menu dropdown-menu-left">
+								<li><a href="#">Pueblos Mágicos</a></li>
+								<li><a href="#">Ciudades</a></li>
+							</ul>
+						</li>
+						<li class="active dropdown singleDrop">
+							<a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Galería</a>
+							<ul class="dropdown-menu dropdown-menu-right">
+								<li><a href="<?=base_url();?>gallery/autobuses"> Autobuses </a></li>
+								<li><a href="<?=base_url();?>gallery/videos"> Videos </a></li>
+							</ul>
+						</li>
+					</ul>
+				</div>
 			</div>
-		</div>
 		</nav>
 	</header>
 
-    <?php echo $output; ?>
+	<?php echo $output; ?>
 
-   <!-- FOOTER -->
+	<!-- FOOTER -->
 	<footer>
 	<div class="footer clearfix">
 		<div class="container">
 		<div class="row">
 			<div class="col-sm-3 col-xs-12">
 			<div class="footerContent">
-				<a href="<?= base_url(); ?>" class="footer-logo"><img src="<?=base_url('img/logo-color-sm.png"')?> alt="footer-logo" style="width:240px; height:100px;border:0;"></a>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute </p>
+				<a href="<?= base_url(); ?>" class="footer-logo"><img src="<?=base_url('img/logo-color-sm.png"')?> alt="footer-logo" style="width:255px; height:100px;border:0;"></a>
+				<p>Pez Vela Travel Bus es una empresa con amplia experiencia en el servicio de renta de autobuses.
+				La calidad de nuestras unidades y la atención a nuestros clientes son nuestro mayor compromiso. </p>
 			</div>
 			</div>
 			<div class="col-sm-3 col-xs-12">
 			<div class="footerContent">
 				<h5>Contactanos</h5>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmod.</p>
+				
 				<ul class="list-unstyled">
-				<li><i class="fa fa-home" aria-hidden="true"></i>61 Park Street, Fifth Avenue, NY</li>
-				<li><i class="fa fa-phone" aria-hidden="true"></i>[88] 657 524 332</li>
-				<li><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="mailTo:info@xplorabus.com">info@xplorabus.com</a></li>
+				<li><i class="fa fa-home" aria-hidden="true"></i>Prolongación Av. Elías Zamora Verduzco s/n, Salagua, Manzanillo, Colima</li>
+				<li><i class="fa fa-phone" aria-hidden="true"></i> (314) 333 0063 </li>
+				<li><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="mailTo:pezvelatravelbus@hotmail.com">pezvelatravelbus@hotmail.com</a></li>
 				</ul>
 			</div>
 			</div>
@@ -141,17 +142,15 @@
 			<div class="col-sm-3 col-xs-12">
 			<div class="footerContent">
 				<h5>Promociones</h5>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do. </p>
+				<p>Si quieres saber mas, registra tu email o visita nuestras redes sociales. </p>
 				<div class="input-group">
 				<input type="text" class="form-control" placeholder="Registra tu email" aria-describedby="basic-addon21">
 				<span class="input-group-addon" id="basic-addon21"><i class="fa fa-long-arrow-right" aria-hidden="true"></i></span>
 				</div>
 				<ul class="list-inline">
-				<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-				<li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-				<li><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-				<li><a href="#"><i class="fa fa-pinterest-p" aria-hidden="true"></i></a></li>
-				<li><a href="#"><i class="fa fa-vimeo" aria-hidden="true"></i></a></li>
+				<li><a href="https://www.facebook.com/XploraBus-1986914584868535/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+				<li><a href="https://plus.google.com/u/0/s/XPLORABUS%20PEZ%20VELA%20TRAVEL/top" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+				<li><a href="https://www.youtube.com/channel/UC9Dso5uxH9qnHulirl09ayA" target="_blank"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
 				</ul>
 			</div>
 			</div>
@@ -163,10 +162,10 @@
 		<div class="row">
 			<div class="col-sm-6 col-sm-push-6 col-xs-12">
 			<ul class="list-inline">
-				<li><a href="#">Privacy Policy</a></li>
+				<!-- <li><a href="#">Privacy Policy</a></li>
 				<li><a href="#">About Us</a></li>
 				<li><a href="#">Support</a></li>
-				<li><a href="#">Blog</a></li>
+				<li><a href="#">Blog</a></li> -->
 			</ul>
 			</div>
 			<div class="col-sm-6 col-sm-pull-6 col-xs-12">
