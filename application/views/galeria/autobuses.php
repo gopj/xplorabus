@@ -66,6 +66,12 @@
 							<div class="row">
 								<div class="col-sm-8 col-xs-12">
 									<div class="commonInfo">
+											
+										<div class="row">
+											<div class="col-md-6"><img src="<?=base_url();?>img/gallery/gallery-logo-pbirizar.png" style="width: 325px; height: 185px;"></div> </br>
+											<div class="col-md-6"><img src="<?=base_url();?>img/gallery/gallery-logo-pbirizar-scania.png" style="width: 325px; height: 140px;"></div>
+										</div>	
+										
 										<h2>Descripción</h2>
 										<p>Su diseño está enfocado en brindar la máxima seguridad y confort para llevarte a tu destino sin contratiempos y de forma placentera.</p>
 										<p>Cuenta con tecnologías que van por delante de las normativas de seguridad de cada mercado.</p>
@@ -131,6 +137,12 @@
 							<div class="row">
 								<div class="col-sm-8 col-xs-12">
 									<div class="commonInfo">
+
+										<div class="row">
+											<div class="col-md-6"><img src="<?=base_url();?>img/gallery/gallery-logo-pbirizar.png" style="width: 325px; height: 185px;"></div>
+											<div class="col-md-6"><img src="<?=base_url();?>img/gallery/gallery-logo-man.png" style="width: 325px; height: 185px;"></div>
+										</div>
+
 										<h2>Descripción</h2>
 										<p>El i6 es un autobús que destaca por sus prestaciones, diseño, aerodinámica, cuidado por los detalles, y confort.</p>
 										<p>Un autobús seguro, fiable y rentable.</p>

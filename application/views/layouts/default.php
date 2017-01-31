@@ -56,7 +56,7 @@
 			<div class="collapse navbar-collapse navbar-ex1-collapse">
 				<ul class="nav navbar-nav navbar-right">
 					<li class="active dropdown singleDrop">
-						<a href="<?= base_url(); ?>">Inicio</a>
+						<a href="#">Inicio</a>
 					</li>
 					<li class="dropdown singleDrop">
 						<a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Paquetes</a>
