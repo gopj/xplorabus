@@ -138,7 +138,7 @@
 			<div class="col-sm-3 col-xs-12">
 			<div class="footerContent">
 				<h5>Promociones</h5>
-				<p>Si quieres saber mas, registra tu email o visita nuestras redes sociales. </p>
+				<p>Si quieres saber más, registra tu email o visita nuestras redes sociales. </p>
 				<div class="input-group">
 				<input type="text" class="form-control" placeholder="Registra tu email" aria-describedby="basic-addon21">
 				<span class="input-group-addon" id="basic-addon21"><i class="fa fa-long-arrow-right" aria-hidden="true"></i></span>
