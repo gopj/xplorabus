@@ -13,7 +13,8 @@
 				data-start="1000"
 				data-easing="Back.easeInOut"
 				data-endspeed="300">
-					Descubre lo mas impresionante
+					Tu seguridad es 
+					<span>nuestra prioridad</span>
 				</div>
 				<div class="tp-caption rs-caption-2 sft"
 				data-hoffset="0"
@@ -50,8 +51,8 @@
 				data-start="1000"
 				data-easing="Back.easeInOut"
 				data-endspeed="300">
-				Crusando los limites
-				<span>Xplorabus</span>
+				Confort y seguridad, te acompañan  
+					<span>con nosotros</span>
 				</div>
 				<div class="tp-caption rs-caption-2 sft text-center"
 				data-hoffset="0"
@@ -88,8 +89,8 @@
 				data-start="1000"
 				data-easing="Back.easeInOut"
 				data-endspeed="300">
-				Disfruta en total libertad
-				<span>Tu viaje</span>
+				Cuidamos cada detalle para hacer de tu viaje,
+				<span>una grata experiencia</span>
 				</div>
 				<div class="tp-caption rs-caption-2 sft"
 				data-hoffset="0"
@@ -305,60 +306,21 @@
 	<section class="whiteSection">
 	<div class="container">
 		<div class="row">
-		<div class="col-xs-12">
-			<div class="sectionTitle">
-			<h2><span>Nuestros Destinos</span></h2>
-			<p>Nullam vitae risus commodo arcu tincidunt ultricies</p>
+			<div class="col-xs-12">
+				<div class="sectionTitle">
+					<h2><span>Conocenos</span></h2>
+					<p>Somos una empresa líder en servicios de transporte terrestre. Contamos con unidades de última generación, con tecnología de punta que ofrece gran seguridad y confort, para hacer de tus viajes una experiencia única.</p>
+				</div>
 			</div>
-		</div>
 		</div>
 		<div class="row">
-		<div class="col-xs-12">
-			<div class="media destinations">
-			<a class="media-left" href="">
-				<img class="media-object" src="<?=base_url('img/home/destination.jpg" alt')?>="Destination">
-			</a>
-			<div class="media-body">
-				<h3 class="media-heading">SELECCIONA <br>TU DESTINO</h3>
-				<!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p> -->
-				<div class="clearfix">
-				<ul class="list-unstyled">
-					<li><i class="fa fa-minus" aria-hidden="true"></i>JALISCO</li>
-					<li><a href=""><i class="fa fa-square" aria-hidden="true"></i>MAZAMITLA</a></li>
-					<li><a href=""><i class="fa fa-square" aria-hidden="true"></i>TAPALPA</a></li>
-					<li><a href=""><i class="fa fa-square" aria-hidden="true"></i>PTO. VALLARTA</a></li>
-				</ul>
-				<ul class="list-unstyled">
-					<li><i class="fa fa-minus" aria-hidden="true"></i>MONTERREY</li>
-					<li><a href=""><i class="fa fa-square" aria-hidden="true"></i>XXXX</a></li>
-					<li><a href=""><i class="fa fa-square" aria-hidden="true"></i>XXXX</a></li>
-					<li><a href=""><i class="fa fa-square" aria-hidden="true"></i>XXXX</a></li>
-				</ul>
-				<ul class="list-unstyled">
-					<li><i class="fa fa-minus" aria-hidden="true"></i>GUANAJUATO</li>
-					<li><a href=""><i class="fa fa-square" aria-hidden="true"></i>LEON</a></li>
-					<li><a href=""><i class="fa fa-square" aria-hidden="true"></i>HIDALGO</a></li>
-					<li><a href=""><i class="fa fa-square" aria-hidden="true"></i>XXXX</a></li>
-				</ul>
-				<ul class="list-unstyled">
-					<li><i class="fa fa-minus" aria-hidden="true"></i>XXXXXX</li>
-					<li><a href=""><i class="fa fa-square" aria-hidden="true"></i>XXXX</a></li>
-					<li><a href=""><i class="fa fa-square" aria-hidden="true"></i>XXXX</a></li>
-					<li><a href=""><i class="fa fa-square" aria-hidden="true"></i>XXXX</a></li>
-				</ul>
-				<ul class="list-unstyled">
-					<li><i class="fa fa-minus" aria-hidden="true"></i>XXXXX</li>
-					<li><a href=""><i class="fa fa-square" aria-hidden="true"></i>XXXXX</a></li>
-					<li><a href=""><i class="fa fa-square" aria-hidden="true"></i>XXXXX</a></li>
-					<li><a href=""><i class="fa fa-square" aria-hidden="true"></i>XXXXX</a></li>
-				</ul>
-				</div>
-				<div class="media-btn">
-				<a href="" class="btn buttonTransparent">VER TODO</a>
+			<div class="col-xs-12">
+				<div class="media destinations">
+					<div class="embed-responsive embed-responsive-16by9">
+						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/lN5Ff5l5H-M" frameborder="0" allowfullscreen></iframe>
+					</div>
 				</div>
 			</div>
-			</div>
-		</div>
 		</div>
 	</div>
 	</section>
