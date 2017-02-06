@@ -33,6 +33,9 @@
 						<li role="presentation">
 							<a href="#i6-irizar" aria-controls="i6-irizar" role="tab" data-toggle="tab">I6 IRIZAR – SCANIA MODELO 2017</a>
 						</li>
+						<li role="presentation">
+							<a href="#man-irizar" aria-controls="man-irizar" role="tab" data-toggle="tab">PB IRIZAR – MAN MODELO 2014</a>
+						</li>
 					</ul>
 
 					<!-- Tab panes -->
@@ -79,7 +82,6 @@
 										<ul >
 											<li><i class="fa fa-square" aria-hidden="true"></i> Capacidad para 51 pasajeros</li>
 											<li><i class="fa fa-square" aria-hidden="true"></i> Asientos reclinables con almohadillas ergonómicas y cinturones de seguridad </li>
-											<li></li>
 											<li><i class="fa fa-square" aria-hidden="true"></i> Tomas de corriente  </li>
 											<li><i class="fa fa-square" aria-hidden="true"></i> Posavasos en cada butaca </li>
 											<li><i class="fa fa-square" aria-hidden="true"></i> Asiento para guía </li>
@@ -106,9 +108,9 @@
 									</aside>
 								</div>
 							</div>
-						</div><!-- PB IRIZAR -->
+						</div><!-- ///// PB IRIZAR -->
 
-						<div role="tabpanel" class="tab-pane" id="i6-irizar"> <!-- PB IRIZAR -->
+						<div role="tabpanel" class="tab-pane" id="i6-irizar"> <!-- i6 IRIZAR SCANIA-->
 							<div class="row galleryCarousel">
 								<div class="col-xs-12">
 									<div id="i6irizar-carousel" class="carousel slide" data-ride="carousel">
@@ -139,8 +141,8 @@
 									<div class="commonInfo">
 
 										<div class="row">
-											<div class="col-md-6"><img src="<?=base_url();?>img/gallery/gallery-logo-pbirizar.png" style="width: 325px; height: 185px;"></div>
-											<div class="col-md-6"><img src="<?=base_url();?>img/gallery/gallery-logo-man.png" style="width: 325px; height: 185px;"></div>
+											<div class="col-md-6"><img src="<?=base_url();?>img/gallery/gallery-logo-pbirizar.png" style="width: 325px; height: 185px;"></div> <br>
+											<div class="col-md-6"><img src="<?=base_url();?>img/gallery/gallery-logo-pbirizar-scania.png" style="width: 325px; height: 140px;"></div>
 										</div>
 
 										<h2>Descripción</h2>
@@ -151,7 +153,6 @@
 										<ul >
 											<li><i class="fa fa-square" aria-hidden="true"></i> Capacidad para 51 pasajeros</li>
 											<li><i class="fa fa-square" aria-hidden="true"></i> Asientos reclinables con almohadillas ergonómicas y cinturones de seguridad </li>
-											<li></li>
 											<li><i class="fa fa-square" aria-hidden="true"></i> Tomas de corriente  </li>
 											<li><i class="fa fa-square" aria-hidden="true"></i> Posavasos en cada butaca </li>
 											<li><i class="fa fa-square" aria-hidden="true"></i> Asiento para guía </li>
@@ -178,7 +179,77 @@
 									</aside>
 								</div>
 							</div>
-						</div><!-- PB IRIZAR -->
+						</div><!-- //// I6 IRIZAR SCANIA-->
+
+						<div role="tabpanel" class="tab-pane" id="man-irizar"> <!-- PB IRIZAR MAN-->
+							<div class="row galleryCarousel">
+								<div class="col-xs-12">
+									<div id="manirizar-carousel" class="carousel slide" data-ride="carousel">
+										<div class="carousel-inner">
+											<div class="item active">
+												<img alt="First slide" src="<?=base_url();?>img/gallery/gallery-manirizar-slider-01.jpg">
+											</div>
+											<div class="item">
+												<img alt="Second slide" src="<?=base_url();?>img/gallery/gallery-manirizar-slider-02.jpg">
+											</div>
+											<div class="item">
+												<img alt="Third slide" src="<?=base_url();?>img/gallery/gallery-manirizar-slider-03.jpg">
+											</div>
+											<div class="item">
+												<img alt="Fourth slide" src="<?=base_url();?>img/gallery/gallery-manirizar-slider-04.jpg">
+											</div>
+											<div class="item">
+												<img alt="Fifth slide" src="<?=base_url();?>img/gallery/gallery-manirizar-slider-05.jpg">
+											</div>
+										</div>
+										<a class="left carousel-control" href="#manirizar-carousel" data-slide="prev"><span class="glyphicon glyphicon-menu-left"></span></a>
+										<a class="right carousel-control" href="#manirizar-carousel" data-slide="next"><span class="glyphicon glyphicon-menu-right"></span></a>
+									</div>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-sm-8 col-xs-12">
+									<div class="commonInfo">
+
+										<div class="row">
+											<div class="col-md-6"><img src="<?=base_url();?>img/gallery/gallery-logo-pbirizar.png" style="width: 325px; height: 185px;"></div>
+											<div class="col-md-6"><img src="<?=base_url();?>img/gallery/gallery-logo-man.png" style="width: 325px; height: 185px;"></div>
+										</div>
+
+										<h2>Descripción</h2>
+										<p>Su diseño está enfocado en brindar la máxima seguridad y confort para llevarte a tu destino sin contratiempos y de forma placentera.</p>
+										<p>Cuenta con altas medidas de seguridad que harán de tu viaje una grata experiencia</p>
+										<p>El diseño del Irizar pb ha transcendido al mercado como distintivo de autobuses de lujo. Fuerte presencia, grafismo atractivo, carácter, formas sólidas, robustez, fluidez y movimiento son las claves que distinguen al Irizar pb de otros autobuses.</p>
+										<ul >
+											<li><i class="fa fa-square" aria-hidden="true"></i> Capacidad para 51 pasajeros</li>
+											<li><i class="fa fa-square" aria-hidden="true"></i> Asientos reclinables con almohadillas ergonómicas y cinturones de seguridad </li>
+											<li><i class="fa fa-square" aria-hidden="true"></i> Tomas de corriente  </li>
+											<li><i class="fa fa-square" aria-hidden="true"></i> Posavasos en cada butaca </li>
+											<li><i class="fa fa-square" aria-hidden="true"></i> Asiento para guía </li>
+											<li><i class="fa fa-square" aria-hidden="true"></i> Micrófono y sonido ambiental </li>
+											<li><i class="fa fa-square" aria-hidden="true"></i> Proyección de películas y videos a bordo </li>
+											<li><i class="fa fa-square" aria-hidden="true"></i> Iluminación interior de leds </li>
+											<li><i class="fa fa-square" aria-hidden="true"></i> Compartimientos para equipaje de mano </li>
+											<li><i class="fa fa-square" aria-hidden="true"></i> Sanitario </li>
+										</ul>
+									</div>
+								</div>
+								<div class="col-sm-4 col-xs-12">
+									<aside>
+										<div class="well">
+											<h3>Extras</h3>
+											<ul class="list-unstyled">
+												<li><i class="fa fa-check-square" aria-hidden="true"></i>Nueve monitores LCD Full HD</li>
+												<li><i class="fa fa-check-square" aria-hidden="true"></i>Doble puerta de acceso</li>
+												<li><i class="fa fa-check-square" aria-hidden="true"></i>Vidrios panorámicos</li>
+												<li><i class="fa fa-check-square" aria-hidden="true"></i>Cafetera y nevera</li>
+											</ul>
+											<a href="#" class="btn buttonCustomPrimary">Llamar ahora!</a>
+										</div>
+									</aside>
+								</div>
+							</div>
+						</div><!-- //// PB IRIZAR MAN-->
 
 
 					</div> <!-- Tab panes -->

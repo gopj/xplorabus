@@ -174,35 +174,29 @@
 			<img src="<?=base_url('img/home/deal/deal-01.jpg')?>" alt="deal-image">
 			<a href="" class="pageLink"></a>
 			<div class="discountInfo">
-				<div class="discountOffer">
-				<h4>
-					50% <span>OFF</span>
-				</h4>
-				</div>
+				
 				<ul class="list-inline rating homePage">
-				<li><i class="fa fa-star" aria-hidden="true"></i></li>
-				<li><i class="fa fa-star" aria-hidden="true"></i></li>
-				<li><i class="fa fa-star" aria-hidden="true"></i></li>
-				<li><i class="fa fa-star" aria-hidden="true"></i></li>
-				<li><i class="fa fa-star" aria-hidden="true"></i></li>
+					<li><i class="fa fa-star" aria-hidden="true"></i></li>
+					<li><i class="fa fa-star" aria-hidden="true"></i></li>
+					<li><i class="fa fa-star" aria-hidden="true"></i></li>
+					<li><i class="fa fa-star" aria-hidden="true"></i></li>
+					<li><i class="fa fa-star" aria-hidden="true"></i></li>
 				</ul>
 				<ul class="list-inline duration">
-				<li>7 days</li>
-				<li>15 hrs</li>
-				<li>15 min</li>
+					<li>PB IRIZAR – SCANIA MODELO 2017</li>
 				</ul>
 			</div>
 			<div class="caption">
 				<h4><a href="" class="captionTitle">Descripción</a></h4>
-				<p>Integer purus ex, dictum nec elementum eu, tristique vel lectus. Donec rutrum lectus et pharetra egestas.</p>
+				<p>Su diseño está enfocado en brindar la máxima seguridad y confort para llevarte a tu destino sin contratiempos y de forma placentera.</p>
 				<div class="detailsInfo">
-				<h5>
-					<span>Desde</span>
-					$299
-				</h5>
-				<ul class="list-inline detailsBtn">
-					<li><a href="" class="btn buttonTransparent">Detalles</a></li>
-				</ul>
+					<h5>
+						<span>Desde</span>
+						$299
+					</h5>
+					<ul class="list-inline detailsBtn">
+						<li><a href="<?=base_url();?>gallery/autobuses" class="btn buttonTransparent">Detalles</a></li>
+					</ul>
 				</div>
 			</div>
 			</div>
@@ -212,34 +206,27 @@
 			<img src="<?=base_url('img/home/deal/deal-02.jpg')?>" alt="deal-image">
 			<a href="" class="pageLink"></a>
 			<div class="discountInfo">
-				<div class="discountOffer">
-				<h4>
-					Free <span>Gift</span>
-				</h4>
-				</div>
 				<ul class="list-inline rating homePage">
-				<li><i class="fa fa-star" aria-hidden="true"></i></li>
-				<li><i class="fa fa-star" aria-hidden="true"></i></li>
-				<li><i class="fa fa-star" aria-hidden="true"></i></li>
-				<li><i class="fa fa-star" aria-hidden="true"></i></li>
-				<li><i class="fa fa-star" aria-hidden="true"></i></li>
+					<li><i class="fa fa-star" aria-hidden="true"></i></li>
+					<li><i class="fa fa-star" aria-hidden="true"></i></li>
+					<li><i class="fa fa-star" aria-hidden="true"></i></li>
+					<li><i class="fa fa-star" aria-hidden="true"></i></li>
+					<li><i class="fa fa-star" aria-hidden="true"></i></li>
 				</ul>
 				<ul class="list-inline duration">
-				<li>12 days</li>
-				<li>3 hrs</li>
-				<li>12 min</li>
+					<li>I6 IRIZAR – SCANIA MODELO 2017</li>
 				</ul>
 			</div>
 			<div class="caption">
 				<h4><a href="" class="captionTitle">Descripción</a></h4>
-				<p><!-- Proin convallis magna vel libero accumsan sollicitudin. Quisque dapibus vitae turpis eu magna sagittis. --></p>
+				<p>El i6 es un autobús que destaca por sus prestaciones, diseño, aerodinámica, cuidado por los detalles, y confort.</p> <br>
 				<div class="detailsInfo">
-				<h5>
-					<span>Desde</span>
-					$499
-				</h5>
+					<h5>
+						<span>Desde</span>
+						$499
+					</h5>
 				<ul class="list-inline detailsBtn">
-					<li><a href="" class="btn buttonTransparent">Detalles</a></li>
+					<li><a href="<?=base_url();?>gallery/autobuses#i6-irizar" class="btn buttonTransparent">Detalles</a></li>
 				</ul>
 				</div>
 			</div>
@@ -250,34 +237,27 @@
 			<img src="<?=base_url('img/home/deal/deal-03.jpg')?>" alt="deal-image">
 			<a href="" class="pageLink"></a>
 			<div class="discountInfo">
-				<div class="discountOffer">
-				<h4>
-					25% <span>OFF</span>
-				</h4>
-				</div>
 				<ul class="list-inline rating homePage">
-				<li><i class="fa fa-star" aria-hidden="true"></i></li>
-				<li><i class="fa fa-star" aria-hidden="true"></i></li>
-				<li><i class="fa fa-star" aria-hidden="true"></i></li>
-				<li><i class="fa fa-star" aria-hidden="true"></i></li>
-				<li><i class="fa fa-star" aria-hidden="true"></i></li>
+					<li><i class="fa fa-star" aria-hidden="true"></i></li>
+					<li><i class="fa fa-star" aria-hidden="true"></i></li>
+					<li><i class="fa fa-star" aria-hidden="true"></i></li>
+					<li><i class="fa fa-star" aria-hidden="true"></i></li>
+					<li><i class="fa fa-star" aria-hidden="false"></i></li>
 				</ul>
 				<ul class="list-inline duration">
-				<li>17 days</li>
-				<li>13 hrs</li>
-				<li>18 min</li>
+					<li>PB IRIZAR – MAN MODELO 2014</li>
 				</ul>
 			</div>
 			<div class="caption">
 				<h4><a href="" class="captionTitle">Descripción</a></h4>
-				<p>Vivamus eu mattis nibh. Quisque eget ipsum at odio fringilla consequat vel id erat. Suspendisse non feugiat mi.</p>
+				<p>Su diseño está enfocado en brindar la máxima seguridad y confort para llevarte a tu destino sin contratiempos y de forma placentera.</p>
 				<div class="detailsInfo">
 				<h5>
 					<span>Desde</span>
 					$399
 				</h5>
 				<ul class="list-inline detailsBtn">
-					<li><a href="" class="btn buttonTransparent">Details</a></li>
+					<li><a href="<?=base_url();?>gallery/autobuses#man-irizar" class="btn buttonTransparent">Details</a></li>
 				</ul>
 				</div>
 			</div>
@@ -393,7 +373,7 @@
 				<i class="fa fa-map-marker" aria-hidden="true"></i>
 			</div>
 			<div class="counter">179</div>
-			<h5>Destinations</h5>
+			<h5>Destinos</h5>
 			</div>
 		</div>
 		<div class="col-sm-3 col-xs-6">
@@ -402,7 +382,7 @@
 				<i class="fa fa-gift" aria-hidden="true"></i>
 			</div>
 			<div class="counter">48</div>
-			<h5>tour pack</h5>
+			<h5>Viajes</h5>
 			</div>
 		</div>
 		<div class="col-sm-3 col-xs-6">
@@ -411,7 +391,7 @@
 				<i class="fa fa-smile-o" aria-hidden="true"></i>
 			</div>
 			<div class="counter">4562</div>
-			<h5>happy clients</h5>
+			<h5>clientes felices</h5>
 			</div>
 		</div>
 		<div class="col-sm-3 col-xs-6">
@@ -420,7 +400,7 @@
 				<i class="fa fa-life-ring" aria-hidden="true"></i>
 			</div>
 			<div class="counter">24</div>
-			<h5>hours support</h5>
+			<h5>horas de soporte</h5>
 			</div>
 		</div>
 		</div>
