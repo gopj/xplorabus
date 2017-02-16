@@ -61,9 +61,9 @@
 						<li class="dropdown singleDrop">
 							<a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Unidades</a>
 							<ul class="dropdown-menu dropdown-menu-left">
-								<li><a href="<?=base_url();?>xplorame/autobuses"> PB IRIZAR – SCANIA MODELO 2017 </a></li>
-								<li><a href="<?=base_url();?>xplorame/autobuses"> I6 IRIZAR – SCANIA MODELO 2017 </a></li>
-								<li><a href="<?=base_url();?>xplorame/autobuses"> PB IRIZAR – MAN MODELO 2014 </a></li>
+								<li><a href="<?=base_url();?>unidades/autobuses"> PB IRIZAR – SCANIA MODELO 2017 </a></li>
+								<li><a href="<?=base_url();?>unidades/autobuses"> I6 IRIZAR – SCANIA MODELO 2017 </a></li>
+								<li><a href="<?=base_url();?>unidades/autobuses"> PB IRIZAR – MAN MODELO 2014 </a></li>
 							</ul>
 						</li>
 						<li class="dropdown singleDrop">

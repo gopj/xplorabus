@@ -164,7 +164,7 @@
 		<div class="row">
 		<div class="col-xs-12">
 			<div class="sectionTitle">
-			<h2><span class="lightBg">Nuestras Promociones</span></h2>
+			<h2><span class="lightBg">Xplorame</span></h2>
 			<p></p>
 			</div>
 		</div>
@@ -188,7 +188,7 @@
 				</ul>
 			</div>
 			<div class="caption">
-				<h4><a href="" class="captionTitle">Descripción</a></h4>
+				<h4><a href="" class="captionTitle">Detalles</a></h4>
 				<p>Su diseño está enfocado en brindar la máxima seguridad y confort para llevarte a tu destino sin contratiempos y de forma placentera.</p>
 				<div class="detailsInfo">
 					<h5>
@@ -219,7 +219,7 @@
 				</ul>
 			</div>
 			<div class="caption">
-				<h4><a href="" class="captionTitle">Descripción</a></h4>
+				<h4><a href="" class="captionTitle">Detalles</a></h4>
 				<p>El i6 es un autobús que destaca por sus prestaciones, diseño, aerodinámica, cuidado por los detalles, y confort.</p> <br>
 				<div class="detailsInfo">
 					<h5>
@@ -243,14 +243,14 @@
 					<li><i class="fa fa-star" aria-hidden="true"></i></li>
 					<li><i class="fa fa-star" aria-hidden="true"></i></li>
 					<li><i class="fa fa-star" aria-hidden="true"></i></li>
-					<li><i class="fa fa-star" aria-hidden="false"></i></li>
+					<li><i class="fa fa-star" aria-hidden="true"></i></li>
 				</ul>
 				<ul class="list-inline duration">
 					<li>PB IRIZAR – MAN MODELO 2014</li>
 				</ul>
 			</div>
 			<div class="caption">
-				<h4><a href="" class="captionTitle">Descripción</a></h4>
+				<h4><a href="" class="captionTitle">Detalles</a></h4>
 				<p>Su diseño está enfocado en brindar la máxima seguridad y confort para llevarte a tu destino sin contratiempos y de forma placentera.</p>
 				<div class="detailsInfo">
 				<h5>
@@ -265,13 +265,7 @@
 			</div>
 		</div>
 		</div>
-		<div class="row">
-		<div class="col-xs-12">
-			<div class="btnArea">
-			<a href="" class="btn buttonTransparent">Ver Detalles</a>
-			</div>
-		</div>
-		</div>
+		
 	</div>
 	</section>
 
@@ -283,17 +277,9 @@
 			<div class="promotionTable">
 			<div class="promotionTableInner">
 				<div class="promotionInfo">
-				<span>Promoción de Invierno</span>
-				<h2>Mazamitla, Tapalpa y de mas Pueblos Magicos</h2>
-				<ul class="list-inline rating">
-					<li><i class="fa fa-star" aria-hidden="true"></i></li>
-					<li><i class="fa fa-star" aria-hidden="true"></i></li>
-					<li><i class="fa fa-star" aria-hidden="true"></i></li>
-					<li><i class="fa fa-star" aria-hidden="true"></i></li>
-					<li><i class="fa fa-star" aria-hidden="true"></i></li>
-				</ul>
-				<p>$1,000 por persona</p>
-				<a href="" class="btn buttonCustomPrimary">Ver Detalles</a>
+				<h2>Xtrename</h2>
+				
+				<a href="<?=base_url();?>unidades/autobuses" class="btn buttonCustomPrimary">Ver Detalles</a>
 				</div>
 			</div>
 			</div>

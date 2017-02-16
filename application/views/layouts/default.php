@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Xplorabus - Galería</title>
+  <title>Xplorabus</title>
   
   <!-- PLUGINS CSS STYLE -->
   <link href="<?=base_url();?>plugins/jquery-ui/jquery-ui.css" rel="stylesheet">
@@ -65,9 +65,9 @@
 						<li class="dropdown singleDrop">
 							<a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Unidades</a>
 							<ul class="dropdown-menu dropdown-menu-left">
-								<li><a href="<?=base_url();?>xplorame/autobuses"> PB IRIZAR – SCANIA MODELO 2017 </a></li>
-								<li><a href="<?=base_url();?>xplorame/autobuses"> I6 IRIZAR – SCANIA MODELO 2017 </a></li>
-								<li><a href="<?=base_url();?>xplorame/autobuses"> PB IRIZAR – MAN MODELO 2014 </a></li>
+								<li><a href="<?=base_url();?>unidades/autobuses"> PB IRIZAR – SCANIA MODELO 2017 </a></li>
+								<li><a href="<?=base_url();?>unidades/autobuses"> I6 IRIZAR – SCANIA MODELO 2017 </a></li>
+								<li><a href="<?=base_url();?>unidades/autobuses"> PB IRIZAR – MAN MODELO 2014 </a></li>
 							</ul>
 						</li>
 						<li class="dropdown singleDrop">
