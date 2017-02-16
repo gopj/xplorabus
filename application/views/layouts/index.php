@@ -1,86 +1,83 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
 
-  <!-- SITE TITTLE -->
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Xplorabus - Galería</title>
-  
-  <!-- PLUGINS CSS STYLE -->
-  <link href="<?=base_url();?>plugins/jquery-ui/jquery-ui.css" rel="stylesheet">
-  <link href="<?=base_url();?>plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="<?=base_url();?>plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <link rel="stylesheet" type="text/css" href="<?=base_url();?>plugins/rs-plugin/css/settings.css" media="screen">
-  <link rel="stylesheet" type="text/css" href="<?=base_url();?>plugins/selectbox/select_option1.css">
-  <link rel="stylesheet" type="text/css" href="<?=base_url();?>plugins/datepicker/datepicker.css">
-  <link rel="stylesheet" type="text/css" href="<?=base_url();?>plugins/isotope/jquery.fancybox.css">
-  <link rel="stylesheet" type="text/css" href="<?=base_url();?>plugins/isotope/isotope.css">
+<!-- SITE TITTLE -->
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Xplorabus</title>
 
-  <!-- GOOGLE FONT -->
-  <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
-  
-  <!-- CUSTOM CSS -->
-  <link href="<?=base_url();?>css/style.css" rel="stylesheet">
-  <link rel="stylesheet" href="<?=base_url();?>css/colors/default.css" id="option_color">
+<!-- PLUGINS CSS STYLE -->
+<link href="<?=base_url();?>plugins/jquery-ui/jquery-ui.css" rel="stylesheet">
+<link href="<?=base_url();?>plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<link href="<?=base_url();?>plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="<?=base_url();?>plugins/rs-plugin/css/settings.css" media="screen">
+<link rel="stylesheet" type="text/css" href="<?=base_url();?>plugins/selectbox/select_option1.css">
+<link rel="stylesheet" type="text/css" href="<?=base_url();?>plugins/datepicker/datepicker.css">
+<link rel="stylesheet" type="text/css" href="<?=base_url();?>plugins/isotope/jquery.fancybox.css">
+<link rel="stylesheet" type="text/css" href="<?=base_url();?>plugins/isotope/isotope.css">
 
-  <!-- FAVICON -->
-  <link rel="shortcut icon" type="image/png" href="<?=base_url();?>img/favicon.png"/>
+<!-- GOOGLE FONT -->
+<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
 
-  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-  <!--[if lt IE 9]>
-  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-  <![endif]-->
+<!-- CUSTOM CSS -->
+<link href="<?=base_url();?>css/style.css" rel="stylesheet">
+<link rel="stylesheet" href="<?=base_url();?>css/colors/default.css" id="option_color">
+
+
+<!-- FAVICON -->
+<link rel="shortcut icon" type="image/png" href="<?=base_url();?>img/favicon.png"/>
+
 
 </head>
 
-<body>
-  <div class="main-wrapper">
+<body class="changeHeader">
+	<div class="main-wrapper">
 
-    <!-- HEADER -->
+	<!-- HEADER -->
 	<header>
-		<nav class="navbar navbar-default navbar-main navbar-fixed-top lightHeader" role="navigation">
+		<nav class="navbar navbar-default navbar-main navbar-fixed-top" role="navigation">
 			<div class="container">
 
 				<!-- Brand and toggle get grouped for better mobile display -->
 				<div class="navbar-header">
 					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-						<span class="sr-only">Toggle navigation</span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
 					</button>
-					<a class="navbar-brand" href="<?=base_url();?>"></a>
+					<a class="navbar-brand" href="<?= base_url(); ?>"></a>
 				</div>
 
 				<!-- Collect the nav links, forms, and other content for toggling -->
 				<div class="collapse navbar-collapse navbar-ex1-collapse">
 					<ul class="nav navbar-nav navbar-right">
-						<li class="dropdown singleDrop">
-							<a href="<?= base_url(); ?>">Inicio</a>
-						</li>
-						<li class="dropdown singleDrop">
-							<a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Paquetes</a>
-							<ul class="dropdown-menu dropdown-menu-left">
-								<li><a href="#">Paquete 1</a></li>
-								<li><a href="#">Paquete 2</a></li>
-							</ul>
-						</li>
-						<li class="dropdown singleDrop">
-							<a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Destinos</a>
-							<ul class="dropdown-menu dropdown-menu-left">
-								<li><a href="#">Pueblos Mágicos</a></li>
-								<li><a href="#">Ciudades</a></li>
-							</ul>
-						</li>
 						<li class="active dropdown singleDrop">
-							<a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Galería</a>
+							<a href="#">Inicio</a>
+						</li>
+						<li class="dropdown singleDrop">
+							<a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Unidades</a>
+							<ul class="dropdown-menu dropdown-menu-left">
+								<li><a href="<?=base_url();?>xplorame/autobuses"> PB IRIZAR – SCANIA MODELO 2017 </a></li>
+								<li><a href="<?=base_url();?>xplorame/autobuses"> I6 IRIZAR – SCANIA MODELO 2017 </a></li>
+								<li><a href="<?=base_url();?>xplorame/autobuses"> PB IRIZAR – MAN MODELO 2014 </a></li>
+							</ul>
+						</li>
+						<li class="dropdown singleDrop">
+							<a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Xplorame</a>
+							<ul class="dropdown-menu dropdown-menu-left">
+								<li><a href="<?=base_url();?>xplorame/videos"> Videos </a></li>
+							</ul>
+						</li>
+						<li class="dropdown singleDrop">
+							<a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Xplorabus</a>
 							<ul class="dropdown-menu dropdown-menu-right">
-								<li><a href="<?=base_url();?>gallery/autobuses"> Autobuses </a></li>
-								<li><a href="<?=base_url();?>gallery/videos"> Videos </a></li>
+								<li><a href="#"> Mision </a></li>
+								<li><a href="#"> Vision </a></li>
+								<li><a href="#"> Objetivos </a></li>
 							</ul>
 						</li>
 					</ul>
@@ -231,3 +228,4 @@
 </body>
 
 </html>
+

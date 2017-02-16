@@ -309,8 +309,12 @@
 			<div class="col-xs-12">
 				<div class="sectionTitle">
 					<h2><span>Conocenos</span></h2>
-					<p>Somos una empresa líder en servicios de transporte terrestre. Contamos con unidades de última generación, con tecnología de punta que ofrece gran seguridad y confort, para hacer de tus viajes una experiencia única.</p>
 				</div>
+				
+				<font size="4"> Somos una empresa líder en servicios de transporte terrestre. Contamos con unidades de última generación, con tecnología de punta que ofrece gran seguridad y confort, para hacer de tus viajes una experiencia única. </font>
+
+				<br><br>
+				
 			</div>
 		</div>
 		<div class="row">

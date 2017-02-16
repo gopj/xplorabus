@@ -5,7 +5,7 @@ class Index extends My_Controller {
 
 	function __construct() {
 		parent::__construct();
-		$this->setLayout('default');
+		$this->setLayout('index');
 	}
 
 	public function index() {

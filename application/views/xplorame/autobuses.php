@@ -91,6 +91,13 @@
 											<li><i class="fa fa-square" aria-hidden="true"></i> Compartimientos para equipaje de mano </li>
 											<li><i class="fa fa-square" aria-hidden="true"></i> Sanitario </li>
 										</ul>
+
+										<br><br><br>
+										<h2>Esquema de Butacas</h2>
+										<div class="row">
+											<div class="col-md-12"><img src="<?=base_url();?>img/gallery/ESQUEMA BUTACAS_pb_193_194.png" ></div>
+										</div>
+
 									</div>
 								</div>
 								<div class="col-sm-4 col-xs-12">
@@ -162,6 +169,13 @@
 											<li><i class="fa fa-square" aria-hidden="true"></i> Compartimientos para equipaje de mano </li>
 											<li><i class="fa fa-square" aria-hidden="true"></i> Sanitario </li>
 										</ul>
+
+										<br><br><br>
+										<h2>Esquema de Butacas</h2>
+										<div class="row">
+											<div class="col-md-12"><img src="<?=base_url();?>img/gallery/ESQUEMA BUTACAS_i6.png" ></div>
+										</div>
+
 									</div>
 								</div>
 								<div class="col-sm-4 col-xs-12">
@@ -232,6 +246,13 @@
 											<li><i class="fa fa-square" aria-hidden="true"></i> Compartimientos para equipaje de mano </li>
 											<li><i class="fa fa-square" aria-hidden="true"></i> Sanitario </li>
 										</ul>
+
+										<br><br><br>
+										<h2>Esquema de Butacas</h2>
+										<div class="row">
+											<div class="col-md-12"><img src="<?=base_url();?>img/gallery/ESQUEMA BUTACAS_pb_183.png" ></div>
+										</div>
+										
 									</div>
 								</div>
 								<div class="col-sm-4 col-xs-12">
