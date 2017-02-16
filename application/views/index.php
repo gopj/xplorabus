@@ -319,7 +319,7 @@
 	<section class="countUpSection">
 	<div class="container">
 		<div class="row">
-		<div class="col-sm-3 col-xs-6">
+		<div class="col-sm-4 col-xs-8">
 			<div class="text-center">
 			<div class="icon">
 				<i class="fa fa-map-marker" aria-hidden="true"></i>
@@ -328,16 +328,7 @@
 			<h5>Destinos</h5>
 			</div>
 		</div>
-		<div class="col-sm-3 col-xs-6">
-			<div class="text-center">
-			<div class="icon">
-				<i class="fa fa-gift" aria-hidden="true"></i>
-			</div>
-			<div class="counter">48</div>
-			<h5>Viajes</h5>
-			</div>
-		</div>
-		<div class="col-sm-3 col-xs-6">
+		<div class="col-sm-4 col-xs-8">
 			<div class="text-center">
 			<div class="icon">
 				<i class="fa fa-smile-o" aria-hidden="true"></i>
@@ -346,13 +337,13 @@
 			<h5>clientes felices</h5>
 			</div>
 		</div>
-		<div class="col-sm-3 col-xs-6">
+		<div class="col-sm-4 col-xs-8">
 			<div class="text-center">
 			<div class="icon">
 				<i class="fa fa-life-ring" aria-hidden="true"></i>
 			</div>
-			<div class="counter">24</div>
-			<h5>horas de soporte</h5>
+			<div class="counter">148700</div>
+			<h5>KM Recorridos</h5>
 			</div>
 		</div>
 		</div>
