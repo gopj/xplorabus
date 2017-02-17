@@ -192,11 +192,11 @@
 				<p>Su diseño está enfocado en brindar la máxima seguridad y confort para llevarte a tu destino sin contratiempos y de forma placentera.</p>
 				<div class="detailsInfo">
 					<h5>
-						<span>Desde</span>
-						$299
+						<!-- <span>Desde</span>
+						$299 -->
 					</h5>
 					<ul class="list-inline detailsBtn">
-						<li><a href="<?=base_url();?>gallery/autobuses" class="btn buttonTransparent">Detalles</a></li>
+						<!-- <li><a href="" class="btn buttonTransparent">Detalles</a></li> -->
 					</ul>
 				</div>
 			</div>
@@ -222,12 +222,12 @@
 				<h4><a href="" class="captionTitle">Detalles</a></h4>
 				<p>El i6 es un autobús que destaca por sus prestaciones, diseño, aerodinámica, cuidado por los detalles, y confort.</p> <br>
 				<div class="detailsInfo">
-					<h5>
+					<!-- <h5>
 						<span>Desde</span>
 						$499
-					</h5>
+					</h5> -->
 				<ul class="list-inline detailsBtn">
-					<li><a href="<?=base_url();?>gallery/autobuses#i6-irizar" class="btn buttonTransparent">Detalles</a></li>
+					<!-- <li><a href="" class="btn buttonTransparent">Detalles</a></li> -->
 				</ul>
 				</div>
 			</div>
@@ -254,11 +254,11 @@
 				<p>Su diseño está enfocado en brindar la máxima seguridad y confort para llevarte a tu destino sin contratiempos y de forma placentera.</p>
 				<div class="detailsInfo">
 				<h5>
-					<span>Desde</span>
-					$399
+					<!-- <span>Desde</span>
+					$399 -->
 				</h5>
 				<ul class="list-inline detailsBtn">
-					<li><a href="<?=base_url();?>gallery/autobuses#man-irizar" class="btn buttonTransparent">Details</a></li>
+					<!-- <li><a href="" class="btn buttonTransparent">Details</a></li> -->
 				</ul>
 				</div>
 			</div>
@@ -385,7 +385,7 @@
 				<div class="overlay">
 					<a class="fancybox-pop" href="">
 					<div class="overlayInfo">
-					<h5>desde <span>$399</span></h5>
+					<!-- <h5>desde <span>$399</span></h5> -->
 					<p><i class="fa fa-calendar" aria-hidden="true"></i>27 Jan, 2017</p>
 					</div>
 					</a>
@@ -442,7 +442,7 @@
 				<div class="overlay">
 					<a class="fancybox-pop" href="">
 					<div class="overlayInfo">
-					<h5>desde <span>$399</span></h5>
+					<!-- <h5>desde <span>$399</span></h5> -->
 					<p><i class="fa fa-calendar" aria-hidden="true"></i>11 Jan, 2017</p>
 					</div>
 					</a>
@@ -461,7 +461,7 @@
 				<div class="overlay">
 					<a class="fancybox-pop" href="">
 					<div class="overlayInfo">
-					<h5>desde <span>$199</span></h5>
+					<!-- <h5>desde <span>$199</span></h5> -->
 					<p><i class="fa fa-calendar" aria-hidden="true"></i>02 Feb, 2017</p>
 					</div>
 					</a>
@@ -480,7 +480,7 @@
 				<div class="overlay">
 					<a class="fancybox-pop" href="">
 					<div class="overlayInfo">
-					<h5>desde <span>$799</span></h5>
+					<!-- <h5>desde <span>$799</span></h5> -->
 					<p><i class="fa fa-calendar" aria-hidden="true"></i>26 Feb, 2017</p>
 					</div>
 					</a>
