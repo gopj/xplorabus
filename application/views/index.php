@@ -89,7 +89,7 @@
 				data-start="1000"
 				data-easing="Back.easeInOut"
 				data-endspeed="300">
-				Cuidamos cada detalle para hacer de tu viaje,
+				Cuidamos cada detalle para hacer de tu viaje
 				<span>una grata experiencia</span>
 				</div>
 				<div class="tp-caption rs-caption-2 sft"
@@ -173,7 +173,7 @@
 		<div class="col-sm-4 col-xs-12">
 			<div class="thumbnail deals">
 			<img src="<?=base_url('img/home/deal/deal-01.jpg')?>" alt="deal-image">
-			<a href="" class="pageLink"></a>
+			<a href="<?=base_url();?>unidades/autobuses/#pb-irizar" class="pageLink"></a>
 			<div class="discountInfo">
 				
 				<ul class="list-inline rating homePage">
@@ -205,7 +205,7 @@
 		<div class="col-sm-4 col-xs-12">
 			<div class="thumbnail deals">
 			<img src="<?=base_url('img/home/deal/deal-02.jpg')?>" alt="deal-image">
-			<a href="" class="pageLink"></a>
+			<a href="<?=base_url();?>unidades/autobuses/#i6-irizar" class="pageLink"></a>
 			<div class="discountInfo">
 				<ul class="list-inline rating homePage">
 					<li><i class="fa fa-star" aria-hidden="true"></i></li>
@@ -236,7 +236,7 @@
 		<div class="col-sm-4 col-xs-12">
 			<div class="thumbnail deals">
 			<img src="<?=base_url('img/home/deal/deal-03.jpg')?>" alt="deal-image">
-			<a href="" class="pageLink"></a>
+			<a href="<?=base_url();?>unidades/autobuses/#man-irizar" class="pageLink"></a>
 			<div class="discountInfo">
 				<ul class="list-inline rating homePage">
 					<li><i class="fa fa-star" aria-hidden="true"></i></li>
@@ -342,7 +342,7 @@
 			<div class="icon">
 				<i class="fa fa-life-ring" aria-hidden="true"></i>
 			</div>
-			<div class="counter">148700</div>
+			<div class="counter">11487000</div>
 			<h5>KM Recorridos</h5>
 			</div>
 		</div>
@@ -356,8 +356,7 @@
 		<div class="row">
 		<div class="col-xs-12">
 			<div class="sectionTitle">
-			<h2><span>Nuestros Paquetes</span></h2>
-			<p>Ut facilisis facilisis metus quis semper</p>
+			<h2><span>Nuestros Destinos</span></h2>
 			</div>
 		</div>
 		</div>
@@ -366,130 +365,206 @@
 			<div class="filter-container isotopeFilters">
 			<ul class="list-inline filter">
 				<li class="active"><a href="#" data-filter="*">Todos</a></li>
-				<li><a href="#" data-filter=".asia">Jalisco</a></li>
-				<li><a href="#" data-filter=".america">Colima</a></li>
-				<li><a href="#" data-filter=".africa">Michoacán</a></li>
+				<li><a href="#" data-filter=".colima">Colima</a></li>
+				<li><a href="#" data-filter=".jalisco">Jalisco</a></li>
+				<li><a href="#" data-filter=".michoacan">Michoacán</a></li>
+				<li><a href="#" data-filter=".monterrey">Monterrey</a></li>
+				<li><a href="#" data-filter=".cdmx">C.D. México</a></li>
 			</ul>
 			</div>
 		</div>
 		</div>
+
 		<div class="row isotopeContainer">
-			<div class="col-sm-4 isotopeSelector asia">
-			<article class="">
-				<figure>
-				<img src="<?=base_url('img/home/packages/packages-1.jpg')?>" alt="">
-				<h4>Vestibulum Tour</h4>
-				<div class="overlay-background">
-					<div class="inner"></div>
-				</div>
-				<div class="overlay">
-					<a class="fancybox-pop" href="">
-					<div class="overlayInfo">
-					<!-- <h5>desde <span>$399</span></h5> -->
-					<p><i class="fa fa-calendar" aria-hidden="true"></i>27 Jan, 2017</p>
-					</div>
-					</a>
-				</div>
-				</figure>
-			</article>
+			
+			<div class="col-sm-4 isotopeSelector colima">
+				<article class="">
+					<figure>
+						<img src="<?=base_url('img/home/packages/colima-manzanillo.jpeg')?>" alt="" style=" width:360px; height: 273px;" onclick="window.open('http://www.sectur.col.gob.mx/pu/', '_blank')">
+						<h4>Manzanillo</h4>
+						<div class="overlay-background">
+							<div class="inner"></div>
+						</div>
+					</figure>
+				</article>
 			</div>
-			<div class="col-sm-4 isotopeSelector america africa">
-			<article class="">
-				<figure>
-				<img src="<?=base_url('img/home/packages/packages-2.jpg')?>" alt="">
-				<h4>Maecenas Tour</h4>
-				<div class="overlay-background">
-					<div class="inner"></div>
-				</div>
-				<div class="overlay">
-				<a class="fancybox-pop" href="">
-					<div class="overlayInfo">
-						<h5>desde <span>$599</span></h5>
-						<p><i class="fa fa-calendar" aria-hidden="true"></i>09 Feb, 2017</p>
-					</div>
-					</a>
-				</div>
-				</figure>
-			</article>
+
+			<div class="col-sm-4 isotopeSelector colima">
+				<article class="">
+					<figure>
+						<img src="<?=base_url('img/home/packages/colima-comala.jpg')?>" alt="" style=" width:360px; height: 273px;" onclick="window.open('http://www.sectur.col.gob.mx/pu/', '_blank')">
+						<h4>Comala</h4>
+						<div class="overlay-background">
+							<div class="inner"></div>
+						</div>
+					</figure>
+				</article>
 			</div>
-			<div class="col-sm-4 isotopeSelector africa">
-			<article class="">
-				<figure>
-				<img src="<?=base_url('img/home/packages/packages-3.jpg')?>" alt="">
-				<h4>Lobortis Tour</h4>
-				<div class="overlay-background">
-					<div class="inner"></div>
-				</div>
-				<div class="overlay">
-					<a class="fancybox-pop" href="">
-					<div class="overlayInfo">
-					<h5>desde <span>$299</span></h5>
-					<p><i class="fa fa-calendar" aria-hidden="true"></i>14 Feb, 2017</p>
-					</div>
-					</a>
-				</div>
-				</figure>
-			</article>
+
+			<div class="col-sm-4 isotopeSelector colima">
+				<article class="">
+					<figure>
+						<img src="<?=base_url('img/home/packages/colima-tecoman.png')?>" alt="" style=" width:360px; height: 273px;" onclick="window.open('http://www.sectur.col.gob.mx/pu/', '_blank')">
+						<h4>Tecomán</h4>
+						<div class="overlay-background">
+							<div class="inner"></div>
+						</div>
+					</figure>
+				</article>
 			</div>
-			<div class="col-sm-4 isotopeSelector asia america">
-			<article class="">
-				<figure>
-				<img src="<?=base_url('img/home/packages/packages-4.jpg')?>" alt="">
-				<h4>Leo Lacus Tour</h4>
-				<div class="overlay-background">
-					<div class="inner"></div>
-				</div>
-				<div class="overlay">
-					<a class="fancybox-pop" href="">
-					<div class="overlayInfo">
-					<!-- <h5>desde <span>$399</span></h5> -->
-					<p><i class="fa fa-calendar" aria-hidden="true"></i>11 Jan, 2017</p>
-					</div>
-					</a>
-				</div>
-				</figure>
-			</article>
+
+			<div class="col-sm-4 isotopeSelector jalisco">
+				<article class="">
+					<figure>
+						<img src="<?=base_url('img/home/packages/jalisco-puertovallarta.jpg')?>" alt="" style=" width:360px; height: 273px;" onclick="window.open('https://info.jalisco.gob.mx/dependencia/secretaria-de-turismo', '_blank')">
+						<h4>Puerto Vallarta</h4>
+						<div class="overlay-background">
+							<div class="inner"></div>
+						</div>
+						<!-- <div class="overlay">
+							<a class="fancybox-pop" href="">
+								<div class="overlayInfo">
+									<h5>desde <span>$699</span></h5>
+									<p><i class="fa fa-calendar" aria-hidden="true"></i>27 Jan, 2017</p>
+								</div>
+							</a>
+						</div> -->
+					</figure>
+				</article>
 			</div>
-			<div class="col-sm-4 isotopeSelector america">
-			<article class="">
-				<figure>
-				<img src="<?=base_url('img/home/packages/packages-5.jpg')?>" alt="">
-				<h4>Nullam Tour</h4>
-				<div class="overlay-background">
-					<div class="inner"></div>
-				</div>
-				<div class="overlay">
-					<a class="fancybox-pop" href="">
-					<div class="overlayInfo">
-					<!-- <h5>desde <span>$199</span></h5> -->
-					<p><i class="fa fa-calendar" aria-hidden="true"></i>02 Feb, 2017</p>
-					</div>
-					</a>
-				</div>
-				</figure>
-			</article>
+
+			<div class="col-sm-4 isotopeSelector jalisco">
+				<article class="">
+					<figure>
+						<img src="<?=base_url('img/home/packages/jalisco-tequila.jpg')?>" alt="" style=" width:360px; height: 273px;" onclick="window.open('https://info.jalisco.gob.mx/dependencia/secretaria-de-turismo', '_blank')">
+						<h4>Tequila</h4>
+						<div class="overlay-background">
+							<div class="inner"></div>
+						</div>
+					</figure>
+				</article>
 			</div>
-			<div class="col-sm-4 isotopeSelector africa asia">
-			<article class="">
-				<figure>
-				<img src="<?=base_url('img/home/packages/packages-6.jpg')?>" alt="">
-				<h4>Hendrerit Tour</h4>
-				<div class="overlay-background">
-					<div class="inner"></div>
-				</div>
-				<div class="overlay">
-					<a class="fancybox-pop" href="">
-					<div class="overlayInfo">
-					<!-- <h5>desde <span>$799</span></h5> -->
-					<p><i class="fa fa-calendar" aria-hidden="true"></i>26 Feb, 2017</p>
-					</div>
-					</a>
-				</div>
-				</figure>
-			</article>
+
+			<div class="col-sm-4 isotopeSelector jalisco">
+				<article class="">
+					<figure>
+						<img src="<?=base_url('img/home/packages/jalisco-guadalajara.jpg')?>" alt="" style=" width:360px; height: 273px;" onclick="window.open('https://info.jalisco.gob.mx/dependencia/secretaria-de-turismo', '_blank')">
+						<h4>Guadalajara</h4>
+						<div class="overlay-background">
+							<div class="inner"></div>
+						</div>
+					</figure>
+				</article>
 			</div>
+
+			<div class="col-sm-4 isotopeSelector jalisco">
+				<article class="">
+					<figure>
+						<img src="<?=base_url('img/home/packages/jalisco-colimilla.jpg')?>" alt="" style=" width:360px; height: 273px;" onclick="window.open('https://info.jalisco.gob.mx/dependencia/secretaria-de-turismo', '_blank')">
+						<h4>Colimilla</h4>
+						<div class="overlay-background">
+							<div class="inner"></div>
+						</div>
+					</figure>
+				</article>
+			</div>
+
+			<div class="col-sm-4 isotopeSelector michoacan">
+				<article class="">
+					<figure>
+						<img src="<?=base_url('img/home/packages/michoacan-morelia.jpg')?>" alt="" style=" width:360px; height: 273px;" onclick="window.open('http://michoacan.gob.mx/', '_blank')">
+						<h4>Morelia</h4>
+						<div class="overlay-background">
+							<div class="inner"></div>
+						</div>
+					</figure>
+				</article>
+			</div>
+
+			<div class="col-sm-4 isotopeSelector michoacan">
+				<article class="">
+					<figure>
+						<img src="<?=base_url('img/home/packages/michoacan-patzcuaro.jpg')?>" alt="" style=" width:360px; height: 273px;" onclick="window.open('http://michoacan.gob.mx/', '_blank')">
+						<h4>Pátzcuaro</h4>
+						<div class="overlay-background">
+							<div class="inner"></div>
+						</div>
+					</figure>
+				</article>
+			</div>
+
+			<div class="col-sm-4 isotopeSelector michoacan">
+				<article class="">
+					<figure>
+						<img src="<?=base_url('img/home/packages/michoacan-janitzio.jpg')?>" alt="" style=" width:360px; height: 273px;" onclick="window.open('http://michoacan.gob.mx/', '_blank')">
+						<h4>Janitzio</h4>
+						<div class="overlay-background">
+							<div class="inner"></div>
+						</div>
+					</figure>
+				</article>
+			</div>
+
+			<div class="col-sm-4 isotopeSelector monterrey">
+				<article class="">
+					<figure>
+						<img src="<?=base_url('img/home/packages/monterrey-nuevoleon.jpeg')?>" alt="" style=" width:360px; height: 273px;" onclick="window.open('http://www.nl.gob.mx/turismo', '_blank')">
+						<h4>Nuevo León</h4>
+						<div class="overlay-background">
+							<div class="inner"></div>
+						</div>
+					</figure>
+				</article>
+			</div>
+
+			<div class="col-sm-4 isotopeSelector monterrey">
+				<article class="">
+					<figure>
+						<img src="<?=base_url('img/home/packages/monterrey-santiago.jpg')?>" alt="" style=" width:360px; height: 273px;" onclick="window.open('http://www.nl.gob.mx/turismo', '_blank')">
+						<h4>Santiago</h4>
+						<div class="overlay-background">
+							<div class="inner"></div>
+						</div>
+					</figure>
+				</article>
+			</div>
+
+			<div class="col-sm-4 isotopeSelector monterrey">
+				<article class="">
+					<figure>
+						<img src="<?=base_url('img/home/packages/monterrrey-bahiaescondida.jpeg')?>" alt="" style=" width:360px; height: 273px;" onclick="window.open('http://www.nl.gob.mx/turismo', '_blank')">
+						<h4>Bahía Escondida</h4>
+						<div class="overlay-background">
+							<div class="inner"></div>
+						</div>
+					</figure>
+				</article>
+			</div>
+
+			<div class="col-sm-4 isotopeSelector cdmx">
+				<article class="">
+					<figure>
+						<img src="<?=base_url('img/home/packages/mexico-cdmx.jpg')?>" alt="" style=" width:360px; height: 273px;" onclick="window.open('http://www.sectur.col.gob.mx/pu/', '_blank')">
+						<h4>C.D. México</h4>
+						<div class="overlay-background">
+							<div class="inner"></div>
+						</div>
+					</figure>
+				</article>
+			</div>
+
+			<div class="col-sm-4 isotopeSelector cdmx">
+				<article class="">
+					<figure>
+						<img src="<?=base_url('img/home/packages/mexico-teotihuacan.jpeg')?>" alt="" style=" width:360px; height: 273px;" onclick="window.open('http://www.sectur.col.gob.mx/pu/', '_blank')">
+						<h4>Teotihuacan</h4>
+						<div class="overlay-background">
+							<div class="inner"></div>
+						</div>
+					</figure>
+				</article>
+			</div>
+
 		</div>
 	</div>
 	</section>
-
-	

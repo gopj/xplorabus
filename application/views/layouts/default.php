@@ -65,9 +65,9 @@
 						<li class="dropdown singleDrop">
 							<a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Unidades</a>
 							<ul class="dropdown-menu dropdown-menu-left">
-								<li><a href="<?=base_url();?>unidades/autobuses"> PB IRIZAR – SCANIA MODELO 2017 </a></li>
-								<li><a href="<?=base_url();?>unidades/autobuses"> I6 IRIZAR – SCANIA MODELO 2017 </a></li>
-								<li><a href="<?=base_url();?>unidades/autobuses"> PB IRIZAR – MAN MODELO 2014 </a></li>
+								<li><a href="<?=base_url();?>unidades/autobuses/#pb-irizar"> PB IRIZAR – SCANIA MODELO 2017 </a></li>
+								<li><a href="<?=base_url();?>unidades/autobuses/#i6-irizar"> I6 IRIZAR – SCANIA MODELO 2017 </a></li>
+								<li><a href="<?=base_url();?>unidades/autobuses/#man-irizar"> PB IRIZAR – MAN MODELO 2014 </a></li>
 							</ul>
 						</li>
 						<li class="dropdown singleDrop">
@@ -92,68 +92,33 @@
 
 	<?php echo $output; ?>
 
-	<!-- FOOTER -->
+<!-- FOOTER -->
 	<footer>
 	<div class="footer clearfix">
 		<div class="container">
 		<div class="row">
-			<div class="col-sm-3 col-xs-12">
+			<div class="col-sm-6 col-xs-12">
 			<div class="footerContent">
 				<a href="<?= base_url(); ?>" class="footer-logo"><img src="<?=base_url('img/logo-color-sm.png"')?> alt="footer-logo" style="width:255px; height:100px;border:0;"></a>
 				<p>Pez Vela Travel Bus es una empresa con amplia experiencia en el servicio de renta de autobuses.
 				La calidad de nuestras unidades y la atención a nuestros clientes son nuestro mayor compromiso. </p>
 			</div>
 			</div>
-			<div class="col-sm-3 col-xs-12">
-			<div class="footerContent">
-				<h5>Contactanos</h5>
-				
-				<ul class="list-unstyled">
-				<li><i class="fa fa-home" aria-hidden="true"></i>Prolongación Av. Elías Zamora Verduzco s/n, Salagua, Manzanillo, Colima</li>
-				<li><i class="fa fa-phone" aria-hidden="true"></i> (314) 333 0063 </li>
-				<li><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="mailTo:pezvelatravelbus@hotmail.com">pezvelatravelbus@hotmail.com</a></li>
-				</ul>
-			</div>
-			</div>
-			<div class="col-sm-3 col-xs-12">
-			<div class="footerContent imgGallery">
-				<h5>Galería</h5>
-				<div class="row">
-				<div class="col-xs-4">
-					<a class="fancybox-pop" href="<?= base_url('img/home/gallery/gallery-1.jpg'); ?>"><img src="<?=base_url('img/home/gallery/thumb-gallery-1')?>.jpg" alt="image"></a>
+			
+			<div class="col-sm-6 col-xs-12">
+				<div class="footerContent">
+					<h5>Contactanos</h5>
+					<ul class="list-unstyled">
+						<li><i class="fa fa-home" aria-hidden="true"></i>Prolongación Av. Elías Zamora Verduzco s/n, Salagua, Manzanillo, Colima</li>
+						<li><i class="fa fa-phone" aria-hidden="true"></i> (314) 333 0063 </li>
+						<li><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="mailTo:pezvelatravelbus@hotmail.com">pezvelatravelbus@hotmail.com</a></li>
+					</ul>
+					<ul class="list-inline">
+						<li><a href="https://www.facebook.com/XploraBus-1986914584868535/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+						<li><a href="https://plus.google.com/u/0/s/XPLORABUS%20PEZ%20VELA%20TRAVEL/top" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+						<li><a href="https://www.youtube.com/channel/UC9Dso5uxH9qnHulirl09ayA" target="_blank"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+					</ul>
 				</div>
-				<div class="col-xs-4">
-					<a class="fancybox-pop" href="<?= base_url('img/home/gallery/gallery-2.jpg'); ?>"><img src="<?=base_url('img/home/gallery/thumb-gallery-2')?>.jpg" alt="image"></a>
-				</div>
-				<div class="col-xs-4">
-					<a class="fancybox-pop" href="<?= base_url('img/home/gallery/gallery-3.jpg'); ?>"><img src="<?=base_url('img/home/gallery/thumb-gallery-3')?>.jpg" alt="image"></a>
-				</div>
-				<div class="col-xs-4">
-					<a class="fancybox-pop" href="<?= base_url('img/home/gallery/gallery-4.jpg'); ?>"><img src="<?=base_url('img/home/gallery/thumb-gallery-4')?>.jpg" alt="image"></a>
-				</div>
-				<div class="col-xs-4">
-					<a class="fancybox-pop" href="<?= base_url('img/home/gallery/gallery-5.jpg'); ?>"><img src="<?=base_url('img/home/gallery/thumb-gallery-5')?>.jpg" alt="image"></a>
-				</div>
-				<div class="col-xs-4">
-					<a class="fancybox-pop" href="<?= base_url('img/home/gallery/gallery-6.jpg'); ?>"><img src="<?=base_url('img/home/gallery/thumb-gallery-6')?>.jpg" alt="image"></a>
-				</div>
-				</div>
-			</div>
-			</div>
-			<div class="col-sm-3 col-xs-12">
-			<div class="footerContent">
-				<h5>Promociones</h5>
-				<p>Si quieres saber más, registra tu email o visita nuestras redes sociales. </p>
-				<div class="input-group">
-				<input type="text" class="form-control" placeholder="Registra tu email" aria-describedby="basic-addon21">
-				<span class="input-group-addon" id="basic-addon21"><i class="fa fa-long-arrow-right" aria-hidden="true"></i></span>
-				</div>
-				<ul class="list-inline">
-				<li><a href="https://www.facebook.com/XploraBus-1986914584868535/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-				<li><a href="https://plus.google.com/u/0/s/XPLORABUS%20PEZ%20VELA%20TRAVEL/top" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-				<li><a href="https://www.youtube.com/channel/UC9Dso5uxH9qnHulirl09ayA" target="_blank"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
-				</ul>
-			</div>
 			</div>
 		</div>
 		</div>

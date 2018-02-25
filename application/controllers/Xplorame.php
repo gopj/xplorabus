@@ -11,5 +11,9 @@ class Xplorame extends My_Controller {
 	public function videos(){
 		$this->load->view('xplorame/videos');
 	}
+
+	public function mvv(){
+		$this->load->view('xplorame/mvv');
+	}
 }
 

@@ -144,3 +144,20 @@ jQuery(document).ready(function(){
     minute: 30,
   });
 });
+
+window.onload = function(){  
+
+    var url = document.location.toString();
+    if (url.match('#')) {
+        $('.nav-tabs a[href=#' + url.split('#')[1] + ']').tab('show');
+    }
+
+    //Change hash for page-reload
+    $('.nav-tabs a[href=#' + url.split('#')[1] + ']').on('shown', function (e) {
+        window.location.hash = e.target.hash;
+    }); 
+} 
+
+function activaTab(tab){
+  $('.nav-tabs a[href="#' + tab + '"]').tab('show');
+};
