@@ -65,9 +65,9 @@
 						<li class="dropdown singleDrop">
 							<a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Unidades</a>
 							<ul class="dropdown-menu dropdown-menu-left">
-								<li><a href="<?=base_url();?>unidades/autobuses/#pb-irizar"> PB IRIZAR – SCANIA MODELO 2017 </a></li>
-								<li><a href="<?=base_url();?>unidades/autobuses/#i6-irizar"> I6 IRIZAR – SCANIA MODELO 2017 </a></li>
-								<li><a href="<?=base_url();?>unidades/autobuses/#man-irizar"> PB IRIZAR – MAN MODELO 2014 </a></li>
+								<li><a href="<?=base_url();?>unidades/autobuses/#pb-irizar" onclick="activaTab('pb-irizar')"> PB IRIZAR – SCANIA MODELO 2017 </a></li>
+								<li><a href="<?=base_url();?>unidades/autobuses/#i6-irizar" onclick="activaTab('i6-irizar')"> I6 IRIZAR – SCANIA MODELO 2017 </a></li>
+								<li><a href="<?=base_url();?>unidades/autobuses/#man-irizar" onclick="activaTab('man-irizar')"> PB IRIZAR – MAN MODELO 2014 </a></li>
 							</ul>
 						</li>
 						<li class="dropdown singleDrop">
@@ -79,9 +79,9 @@
 						<li class="dropdown singleDrop">
 							<a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Xplorabus</a>
 							<ul class="dropdown-menu dropdown-menu-right">
-								<li><a href="#"> Mision </a></li>
-								<li><a href="#"> Vision </a></li>
-								<li><a href="#"> Objetivos </a></li>
+								<li><a href="<?=base_url();?>xplorame/mvv/#mision"> Misión </a></li>
+								<li><a href="<?=base_url();?>xplorame/mvv/#vision"> Visión </a></li>
+								<li><a href="<?=base_url();?>xplorame/mvv/#valores"> Valores </a></li>
 							</ul>
 						</li>
 					</ul>

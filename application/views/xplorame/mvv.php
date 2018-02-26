@@ -17,7 +17,7 @@
 </section>
 
 
-<section class="whiteSection">
+<section class="whiteSection" id="mision">
 	<div class="container">
 		<div class="row">
 			<div class="col-xs-12">
@@ -34,7 +34,7 @@
 	</div>
 </section>
 
-<section class="whiteSection">
+<section class="whiteSection" id="vision">
 	<div class="container">
 		<div class="row">
 			<div class="col-xs-12">
@@ -57,7 +57,7 @@
 	</div>
 </section>
 
-<section class="whiteSection">
+<section class="whiteSection" id="valores">
 	<div class="container">
 		<div class="row">
 			<div class="col-xs-12">
