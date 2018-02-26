@@ -73,6 +73,7 @@
 						<li class="dropdown singleDrop">
 							<a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Xplorame</a>
 							<ul class="dropdown-menu dropdown-menu-left">
+								<li><a href="<?=base_url();?>xplorame/galeria"> Galería </a></li>
 								<li><a href="<?=base_url();?>xplorame/videos"> Videos </a></li>
 							</ul>
 						</li>
