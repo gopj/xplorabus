@@ -69,6 +69,7 @@
 						<li class="dropdown singleDrop">
 							<a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Xplorame</a>
 							<ul class="dropdown-menu dropdown-menu-left">
+								<li><a href="<?=base_url();?>xplorame/galeria"> Galería </a></li>
 								<li><a href="<?=base_url();?>xplorame/videos"> Videos </a></li>
 							</ul>
 						</li>
@@ -132,7 +133,7 @@
 			</div>
 			<div class="col-sm-6 col-sm-pull-6 col-xs-12">
 			<div class="copyRightText">
-				<p>Copyright © <?=date("Y");?>. All Rights Reserved by <a target="_blank" href="http://www.gopycom.net/">gopycom</a>.</p>
+				<p>Copyright © <?=date("Y");?>. All Rights Reserved by <a target="_blank" href="http://www.facebook.com/orbitalestudios/">Orbital Estudios</a>.</p>
 			</div>
 			</div>
 		</div>
