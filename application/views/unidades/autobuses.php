@@ -1,3 +1,4 @@
+												<li><i class="fa fa-check-square" aria-hidden="true"></i> 2 en la parte inferior de 20” </li>
 <!-- PAGE TITLE -->
 <section class="pageTitle" style="background-image:url(<?=base_url('img/pages/page-title-bg8.jpg');?>);">
 	<div class="container">
@@ -28,6 +29,12 @@
 					<!-- Nav tabs -->
 					<ul class="nav nav-tabs" role="tablist">
 						<li role="presentation" class="active">
+							<a href="#ayats-eclipse" aria-controls="ayats-eclipse" role="tab" data-toggle="tab">AYATS ECLIPSE – SCANIA MODELO 2018 VIP</a>
+						</li>
+						<li role="presentation">
+							<a href="#i8-irizar" aria-controls="i8-irizar" role="tab" data-toggle="tab">IRIZAR i8 – SCANIA MODELO 2018 VIP</a>
+						</li>
+						<li role="presentation">
 							<a href="#pb-irizar" aria-controls="pb-irizar" role="tab" data-toggle="tab">PB IRIZAR – SCANIA MODELO 2017</a>
 						</li>
 						<li role="presentation">
@@ -40,7 +47,168 @@
 
 					<!-- Tab panes -->
 					<div class="tab-content">
-						<div role="tabpanel" class="tab-pane active" id="pb-irizar"> <!-- PB IRIZAR -->
+
+						<div role="tabpanel" class="tab-pane active" id="ayats-eclipse"> <!-- AYATS ECLIPSE - SCANIA MODELO 2018 VIP-->
+							<div class="row galleryCarousel">
+								<div class="col-xs-12">
+									<div id="ayats-eclipse-carrousell" class="carousel slide" data-ride="carousel">
+										<div class="carousel-inner">
+											<div class="item active">
+												<img alt="First slide" src="<?=base_url();?>img/gallery/gallery-manirizar-slider-01.jpg">
+											</div>
+											<div class="item">
+												<img alt="Second slide" src="<?=base_url();?>img/gallery/gallery-manirizar-slider-02.jpg">
+											</div>
+											<div class="item">
+												<img alt="Third slide" src="<?=base_url();?>img/gallery/gallery-manirizar-slider-03.jpg">
+											</div>
+											<div class="item">
+												<img alt="Fourth slide" src="<?=base_url();?>img/gallery/gallery-manirizar-slider-04.jpg">
+											</div>
+											<div class="item">
+												<img alt="Fifth slide" src="<?=base_url();?>img/gallery/gallery-manirizar-slider-05.jpg">
+											</div>
+										</div>
+										<a class="left carousel-control" href="#ayats-eclipse-carrousell" data-slide="prev"><span class="glyphicon glyphicon-menu-left"></span></a>
+										<a class="right carousel-control" href="#ayats-eclipse-carrousell" data-slide="next"><span class="glyphicon glyphicon-menu-right"></span></a>
+									</div>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-sm-8 col-xs-12">
+									<div class="commonInfo">
+
+										<div class="row">
+											<div class="col-md-6"><img src="<?=base_url();?>img/gallery/gallery-logo-pbirizar.png" style="width: 325px; height: 185px;"></div>
+											<div class="col-md-6"><img src="<?=base_url();?>img/gallery/gallery-logo-man.png" style="width: 325px; height: 185px;"></div>
+										</div>
+
+										<h2>Descripción</h2>
+										<p style="text-align: justify; text-justify: inter-word;">Su diseño está enfocado en brindar la máxima seguridad y confort para llevarte a tu destino sin contratiempos y de forma placentera. 
+										Cuenta con tecnologías que van por delante de las normativas de seguridad de cada mercado.  El diseño del Ayats  ha transcendido al mercado como distintivo de autobuses de lujo. Fuerte presencia, grafismo atractivo, carácter, formas sólidas, robustez, fluidez y movimiento son las claves que distinguen al Ayats Eclipse de otros autobuses.</p>
+										
+										<ul>
+											<li><i class="fa fa-square" aria-hidden="true"></i> Capacidad para 69 pasajeros </li>
+											<li><i class="fa fa-square" aria-hidden="true"></i> Asientos reclinables marca Esteban plus con almohadillas ergonómicas y cinturón de seguridad </li>
+											<li><i class="fa fa-square" aria-hidden="true"></i> Revistero de red </li>
+											<li><i class="fa fa-square" aria-hidden="true"></i> Tomas de corriente y preparado USB y porta vasos en cada butaca </li>
+											<li><i class="fa fa-square" aria-hidden="true"></i> Asiento para guía </li>
+											<li><i class="fa fa-square" aria-hidden="true"></i> Micrófono y sonido ambiental </li>
+											<li><i class="fa fa-square" aria-hidden="true"></i> Proyección de películas y videos a bordo </li>
+											<li><i class="fa fa-square" aria-hidden="true"></i> Iluminación interior de leds y luces de lectura individuales </li>
+											<li><i class="fa fa-square" aria-hidden="true"></i> Cafetera y nevera </li>
+											<li><i class="fa fa-square" aria-hidden="true"></i> Compartimientos para equipaje de mano tipo avión </li>
+											<li><i class="fa fa-square" aria-hidden="true"></i> 3 Extintores </li>
+											<li><i class="fa fa-square" aria-hidden="true"></i> Botiquín </li>
+											<li><i class="fa fa-square" aria-hidden="true"></i> Sanitario ventanas laterales </li>
+											<li><i class="fa fa-square" aria-hidden="true"></i> Ventanas laterales </li>
+											<li><i class="fa fa-square" aria-hidden="true"></i> Cámara panorámicos </li>
+										</ul>
+
+										<br><br><br>
+										<h2>Esquema de Butacas</h2>
+										<div class="row">
+											<div class="col-md-12"><img src="<?=base_url();?>img/gallery/ESQUEMA BUTACAS_pb_183.png" ></div>
+										</div>
+										
+									</div>
+								</div>
+								<div class="col-sm-4 col-xs-12">
+									<aside>
+										<div class="well">
+											<h3>Extras</h3>
+											<ul class="list-unstyled">
+												<li><i class="fa fa-check-square" aria-hidden="true"></i> 8 monitores de 15” en la parte superior </li>
+												<li><i class="fa fa-check-square" aria-hidden="true"></i> 2 en la parte inferior de 20” </li>
+												<li><i class="fa fa-check-square" aria-hidden="true"></i> Orejeras extra soft </li>
+												<li><i class="fa fa-check-square" aria-hidden="true"></i> Puerta de acceso central </li>
+												<li><i class="fa fa-check-square" aria-hidden="true"></i> Escalera de acceso a la planta superior </li>
+												<li><i class="fa fa-check-square" aria-hidden="true"></i> Cámara control pasaje </li>
+											</ul>
+											<br>
+											<a href="#" class="btn buttonCustomPrimary">Llamar ahora!</a>
+										</div>
+									</aside>
+								</div>
+							</div>
+						</div><!-- //// AYATS ECLIPSE - SCANIA MODELO 2018 VIP -->
+
+						<div role="tabpanel" class="tab-pane" id="i8-irizar"> <!--  IRIZAR i8 – SCANIA MODELO 2018 VIP -->
+							<div class="row galleryCarousel">
+								<div class="col-xs-12">
+									<div id="i8-irizar-carrousell" class="carousel slide" data-ride="carousel">
+										<div class="carousel-inner">
+											<div class="item active">
+												<img alt="First slide" src="<?=base_url();?>img/gallery/gallery-manirizar-slider-01.jpg">
+											</div>
+											<div class="item">
+												<img alt="Second slide" src="<?=base_url();?>img/gallery/gallery-manirizar-slider-02.jpg">
+											</div>
+											<div class="item">
+												<img alt="Third slide" src="<?=base_url();?>img/gallery/gallery-manirizar-slider-03.jpg">
+											</div>
+											<div class="item">
+												<img alt="Fourth slide" src="<?=base_url();?>img/gallery/gallery-manirizar-slider-04.jpg">
+											</div>
+											<div class="item">
+												<img alt="Fifth slide" src="<?=base_url();?>img/gallery/gallery-manirizar-slider-05.jpg">
+											</div>
+										</div>
+										<a class="left carousel-control" href="#i8-irizar-carrousell" data-slide="prev"><span class="glyphicon glyphicon-menu-left"></span></a>
+										<a class="right carousel-control" href="#i8-irizar-carrousell" data-slide="next"><span class="glyphicon glyphicon-menu-right"></span></a>
+									</div>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-sm-8 col-xs-12">
+									<div class="commonInfo">
+
+										<div class="row">
+											<div class="col-md-6"><img src="<?=base_url();?>img/gallery/gallery-logo-pbirizar.png" style="width: 325px; height: 185px;"></div>
+											<div class="col-md-6"><img src="<?=base_url();?>img/gallery/gallery-logo-man.png" style="width: 325px; height: 185px;"></div>
+										</div>
+
+										<h2>Descripción</h2>
+										<p style="text-align: justify; text-justify: inter-word;">Su diseño está enfocado en brindar la máxima seguridad y confort para llevarte a tu destino sin contratiempos y de forma placentera. Cuenta con tecnologías que van por delante de las normativas de seguridad de cada mercado. El diseño del Irizar pb ha transcendido al mercado como distintivo de autobuses de lujo. Fuerte presencia, grafismo atractivo, carácter, formas sólidas, robustez, fluidez y movimiento son las claves que distinguen al Irizar I8 de otros autobuses.</p>
+										
+										<ul>
+											<li><i class="fa fa-square" aria-hidden="true"></i> Capacidad para 51 pasajeros </li>
+											<li><i class="fa fa-square" aria-hidden="true"></i> Asientos reclinables con almohadillas ergonómicas y cinturón de seguridad </li>
+											<li><i class="fa fa-square" aria-hidden="true"></i> Tomas de corriente y porta vasos en cada butaca </li>
+											<li><i class="fa fa-square" aria-hidden="true"></i> Nueve monitores </li>
+											<li><i class="fa fa-square" aria-hidden="true"></i> Asiento para guía </li>
+											<li><i class="fa fa-square" aria-hidden="true"></i> Proyección de películas y videos a bordo </li>
+											<li><i class="fa fa-square" aria-hidden="true"></i> Compartimientos para equipaje de mano sanitario y vidrios panorámicos </li>
+										</ul>
+
+										<br><br><br>
+										<h2>Esquema de Butacas</h2>
+										<div class="row">
+											<div class="col-md-12"><img src="<?=base_url();?>img/gallery/ESQUEMA BUTACAS_pb_183.png" ></div>
+										</div>
+										
+									</div>
+								</div>
+								<div class="col-sm-4 col-xs-12">
+									<aside>
+										<div class="well">
+											<h3>Extras</h3>
+											<ul class="list-unstyled">
+												<li><i class="fa fa-check-square" aria-hidden="true"></i> Iluminación interior de leds </li>
+												<li><i class="fa fa-check-square" aria-hidden="true"></i> Cafetera y nevera </li>
+												<li><i class="fa fa-check-square" aria-hidden="true"></i> Micrófono y sonido ambiental </li>
+												<li><i class="fa fa-check-square" aria-hidden="true"></i> Doble puerta de acceso </li>
+												<li><i class="fa fa-check-square" aria-hidden="true"></i> Cámara control pasaje </li>
+											</ul>
+											<br>
+											<a href="#" class="btn buttonCustomPrimary">Llamar ahora!</a>
+										</div>
+									</aside>
+								</div>
+							</div>
+						</div><!-- //// IRIZAR i8 – SCANIA MODELO 2018 VIP -->
+
+						<div role="tabpanel" class="tab-pane" id="pb-irizar"> <!-- PB IRIZAR -->
 							<div class="row galleryCarousel">
 								<div class="col-xs-12">
 									<div id="pbirizar-carousel" class="carousel slide" data-ride="carousel">
@@ -271,7 +439,6 @@
 								</div>
 							</div>
 						</div><!-- //// PB IRIZAR MAN-->
-
 
 					</div> <!-- Tab panes -->
 				</div>

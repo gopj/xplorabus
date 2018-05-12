@@ -65,6 +65,8 @@
 						<li class="dropdown singleDrop">
 							<a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Unidades</a>
 							<ul class="dropdown-menu dropdown-menu-left">
+								<li><a href="<?=base_url();?>unidades/autobuses/#ayats-eclipse" onclick="activaTab('ayats-eclipse')"> AYATS ECLIPSE – SCANIA MODELO 2018 VIP </a></li>
+								<li><a href="<?=base_url();?>unidades/autobuses/#i8-irizar" onclick="activaTab('i8-irizar')"> IRIZAR i8 – SCANIA MODELO 2018 VIP </a></li>
 								<li><a href="<?=base_url();?>unidades/autobuses/#pb-irizar" onclick="activaTab('pb-irizar')"> PB IRIZAR – SCANIA MODELO 2017 </a></li>
 								<li><a href="<?=base_url();?>unidades/autobuses/#i6-irizar" onclick="activaTab('i6-irizar')"> I6 IRIZAR – SCANIA MODELO 2017 </a></li>
 								<li><a href="<?=base_url();?>unidades/autobuses/#man-irizar" onclick="activaTab('man-irizar')"> PB IRIZAR – MAN MODELO 2014 </a></li>
