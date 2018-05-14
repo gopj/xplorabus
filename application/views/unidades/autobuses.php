@@ -33,6 +33,12 @@
 							<a href="#i8-irizar" aria-controls="i8-irizar" role="tab" data-toggle="tab">IRIZAR i8 – SCANIA MODELO 2018 VIP</a>
 						</li>
 						<li role="presentation">
+							<a href="#beccar" aria-controls="beccar" role="tab" data-toggle="tab"> BECCAR Volkswbus – SCANIA MODELO 2017 </a>
+						</li> 
+						<li role="presentation">
+							<a href="#marcopolo" aria-controls="marcopolo" role="tab" data-toggle="tab"> Marcopolo Volkswbus – SCANIA MODELO 2017 </a>
+						</li> 
+						<li role="presentation">
 							<a href="#pb-irizar" aria-controls="pb-irizar" role="tab" data-toggle="tab">PB IRIZAR – SCANIA MODELO 2017</a>
 						</li>
 						<li role="presentation">
@@ -52,19 +58,19 @@
 									<div id="ayats-eclipse-carrousell" class="carousel slide" data-ride="carousel">
 										<div class="carousel-inner">
 											<div class="item active">
-												<img alt="First slide" src="<?=base_url();?>img/gallery/gallery-manirizar-slider-01.jpg">
+												<img alt="First slide" src="<?=base_url();?>img/gallery/gallery-ayats-eclipse.jpg">
 											</div>
 											<div class="item">
-												<img alt="Second slide" src="<?=base_url();?>img/gallery/gallery-manirizar-slider-02.jpg">
+												<img alt="Second slide" src="<?=base_url();?>img/gallery/gallery-ayats-eclipse.jpg">
 											</div>
 											<div class="item">
-												<img alt="Third slide" src="<?=base_url();?>img/gallery/gallery-manirizar-slider-03.jpg">
+												<img alt="Third slide" src="<?=base_url();?>img/gallery/gallery-ayats-eclipse.jpg">
 											</div>
 											<div class="item">
-												<img alt="Fourth slide" src="<?=base_url();?>img/gallery/gallery-manirizar-slider-04.jpg">
+												<img alt="Fourth slide" src="<?=base_url();?>img/gallery/gallery-ayats-eclipse.jpg">
 											</div>
 											<div class="item">
-												<img alt="Fifth slide" src="<?=base_url();?>img/gallery/gallery-manirizar-slider-05.jpg">
+												<img alt="Fifth slide" src="<?=base_url();?>img/gallery/gallery-ayats-eclipse.jpg">
 											</div>
 										</div>
 										<a class="left carousel-control" href="#ayats-eclipse-carrousell" data-slide="prev"><span class="glyphicon glyphicon-menu-left"></span></a>
@@ -77,8 +83,7 @@
 									<div class="commonInfo">
 
 										<div class="row">
-											<div class="col-md-6"><img src="<?=base_url();?>img/gallery/gallery-logo-pbirizar.png" style="width: 325px; height: 185px;"></div>
-											<div class="col-md-6"><img src="<?=base_url();?>img/gallery/gallery-logo-man.png" style="width: 325px; height: 185px;"></div>
+											<div class="col-md-6"><img src="<?=base_url();?>img/gallery/gallery-logo-pbirizar-scania.png" style="width: 350px; height: 140px;"></div>
 										</div>
 
 										<h2>Descripción</h2>
@@ -102,12 +107,6 @@
 											<li><i class="fa fa-square" aria-hidden="true"></i> Ventanas laterales </li>
 											<li><i class="fa fa-square" aria-hidden="true"></i> Cámara panorámicos </li>
 										</ul>
-
-										<br><br><br>
-										<h2>Esquema de Butacas</h2>
-										<div class="row">
-											<div class="col-md-12"><img src="<?=base_url();?>img/gallery/ESQUEMA BUTACAS_pb_183.png" ></div>
-										</div>
 										
 									</div>
 								</div>
@@ -137,19 +136,10 @@
 									<div id="i8-irizar-carrousell" class="carousel slide" data-ride="carousel">
 										<div class="carousel-inner">
 											<div class="item active">
-												<img alt="First slide" src="<?=base_url();?>img/gallery/gallery-manirizar-slider-01.jpg">
+												<img alt="First slide" src="<?=base_url();?>img/gallery/gallery-i8-irizar-slider_02.jpg">
 											</div>
 											<div class="item">
-												<img alt="Second slide" src="<?=base_url();?>img/gallery/gallery-manirizar-slider-02.jpg">
-											</div>
-											<div class="item">
-												<img alt="Third slide" src="<?=base_url();?>img/gallery/gallery-manirizar-slider-03.jpg">
-											</div>
-											<div class="item">
-												<img alt="Fourth slide" src="<?=base_url();?>img/gallery/gallery-manirizar-slider-04.jpg">
-											</div>
-											<div class="item">
-												<img alt="Fifth slide" src="<?=base_url();?>img/gallery/gallery-manirizar-slider-05.jpg">
+												<img alt="Fifth slide" src="<?=base_url();?>img/gallery/gallery-i8-irizar-slider_01.jpg">
 											</div>
 										</div>
 										<a class="left carousel-control" href="#i8-irizar-carrousell" data-slide="prev"><span class="glyphicon glyphicon-menu-left"></span></a>
@@ -163,7 +153,7 @@
 
 										<div class="row">
 											<div class="col-md-6"><img src="<?=base_url();?>img/gallery/gallery-logo-pbirizar.png" style="width: 325px; height: 185px;"></div>
-											<div class="col-md-6"><img src="<?=base_url();?>img/gallery/gallery-logo-man.png" style="width: 325px; height: 185px;"></div>
+											<div class="col-md-6"><img src="<?=base_url();?>img/gallery/gallery-logo-pbirizar-scania.png" style="width: 350px; height: 140px;"></div>
 										</div>
 
 										<h2>Descripción</h2>
@@ -178,12 +168,6 @@
 											<li><i class="fa fa-square" aria-hidden="true"></i> Proyección de películas y videos a bordo </li>
 											<li><i class="fa fa-square" aria-hidden="true"></i> Compartimientos para equipaje de mano sanitario y vidrios panorámicos </li>
 										</ul>
-
-										<br><br><br>
-										<h2>Esquema de Butacas</h2>
-										<div class="row">
-											<div class="col-md-12"><img src="<?=base_url();?>img/gallery/ESQUEMA BUTACAS_pb_183.png" ></div>
-										</div>
 										
 									</div>
 								</div>
@@ -205,6 +189,115 @@
 								</div>
 							</div>
 						</div><!-- //// IRIZAR i8 – SCANIA MODELO 2018 VIP -->
+
+						<div role="tabpanel" class="tab-pane" id="beccar"> <!--  BECCAR – Volkswbus 2017 -->
+							<div class="row galleryCarousel">
+								<div class="col-xs-12">
+									<div id="beccar-carrousell" class="carousel slide" data-ride="carousel">
+										<div class="carousel-inner">
+											<div class="item active">
+												<img alt="First slide" src="<?=base_url();?>img/gallery/gallery-volkswbus-01.jpg">
+											</div>
+											<div class="item">
+												<img alt="First slide" src="<?=base_url();?>img/gallery/gallery-volkswbus-02.jpg">
+											</div>
+											<div class="item">
+												<img alt="First slide" src="<?=base_url();?>img/gallery/gallery-volkswbus-03.jpg">
+											</div>
+											<div class="item">
+												<img alt="First slide" src="<?=base_url();?>img/gallery/gallery-volkswbus-04.jpg">
+											</div>
+											<div class="item">
+												<img alt="First slide" src="<?=base_url();?>img/gallery/gallery-volkswbus-05.jpg">
+											</div>
+											<div class="item">
+												<img alt="First slide" src="<?=base_url();?>img/gallery/gallery-volkswbus-06.jpg">
+											</div>
+											<div class="item">
+												<img alt="First slide" src="<?=base_url();?>img/gallery/gallery-volkswbus-07.jpg">
+											</div>
+										</div>
+										<a class="left carousel-control" href="#beccar-carrousell" data-slide="prev"><span class="glyphicon glyphicon-menu-left"></span></a>
+										<a class="right carousel-control" href="#beccar-carrousell" data-slide="next"><span class="glyphicon glyphicon-menu-right"></span></a>
+									</div>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-sm-8 col-xs-12">
+									<div class="commonInfo">
+
+										<div class="row">
+											<div class="col-md-6"><img src="<?=base_url();?>img/gallery/gallery-logo-pbirizar-scania.png" style="width: 350px; height: 140px;"></div>
+										</div>
+
+										<h2>Descripción</h2>
+
+										<ul>
+											<li><i class="fa fa-square" aria-hidden="true"></i> Capacidad para 47 pasajeros </li>
+											<li><i class="fa fa-square" aria-hidden="true"></i> Asientos acolchados </li>
+											<li><i class="fa fa-square" aria-hidden="true"></i> Botiquín de primeros auxilios </li>
+											<li><i class="fa fa-square" aria-hidden="true"></i> Ventanillas inastillables </li>
+											<li><i class="fa fa-square" aria-hidden="true"></i> Pasamanos </li>
+											<li><i class="fa fa-square" aria-hidden="true"></i> A/C </li>
+											<li><i class="fa fa-square" aria-hidden="true"></i> Micrófono y sonido ambiental (Ideal para viajes de escuelas o excursiones familiares) </li>
+											<li><i class="fa fa-square" aria-hidden="true"></i> También para recorridos de trabajo o cortos </li>
+											<li><i class="fa fa-square" aria-hidden="true"></i> Económico y con un excelente confort </li>
+										</ul>
+										
+									</div>
+								</div>
+								
+							</div>
+						</div><!-- //// BECCAR –  Volkswbus 2017 -->
+
+						<div role="tabpanel" class="tab-pane" id="marcopolo"> <!-- Marcopolo – Volkswbus 2017 -->
+							<div class="row galleryCarousel">
+								<div class="col-xs-12">
+									<div id="marcopolo-carousel" class="carousel slide" data-ride="carousel">
+										<div class="carousel-inner">
+											<div class="item active">
+												<img alt="First slide" src="<?=base_url();?>img/gallery/gallery-marcopolo-slider-01.jpg">
+											</div>
+											<div class="item">
+												<img alt="Second slide" src="<?=base_url();?>img/gallery/gallery-marcopolo-slider-02.jpg">
+											</div>
+											<div class="item">
+												<img alt="Third slide" src="<?=base_url();?>img/gallery/gallery-marcopolo-slider-03.jpg">
+											</div>
+										</div>
+										<a class="left carousel-control" href="#marcopolo-carousel" data-slide="prev"><span class="glyphicon glyphicon-menu-left"></span></a>
+										<a class="right carousel-control" href="#marcopolo-carousel" data-slide="next"><span class="glyphicon glyphicon-menu-right"></span></a>
+									</div>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-sm-8 col-xs-12">
+									<div class="commonInfo">
+
+										<h2>Descripción</h2>
+										
+										<ul >
+											<li><i class="fa fa-square" aria-hidden="true"></i> Capacidad para 52  pasajeros </li>
+											<li><i class="fa fa-square" aria-hidden="true"></i> Asientos acolchados </li>
+											<li><i class="fa fa-square" aria-hidden="true"></i> Botiquín de primeros auxilios </li>
+											<li><i class="fa fa-square" aria-hidden="true"></i> Ventanillas inastillables </li>
+											<li><i class="fa fa-square" aria-hidden="true"></i> Pasamanos </li>
+											<li><i class="fa fa-square" aria-hidden="true"></i> Aire acondicionado </li>
+											<li><i class="fa fa-square" aria-hidden="true"></i> WC </li>
+											<li><i class="fa fa-square" aria-hidden="true"></i> Micrófono inalambrico y sonido ambiental (Excelente para tus viajes de escuela o familiares) </li>
+											<li><i class="fa fa-square" aria-hidden="true"></i> Servicio muy economico y de buena calidad </li>
+										</ul>
+
+										<br><br><br>
+										<h2>Esquema de Butacas</h2>
+										<div class="row">
+											<div class="col-md-12"><img src="<?=base_url();?>img/gallery/gallery-marcopolo-esquema.png" ></div>
+										</div>
+
+									</div>
+								</div>
+							</div>
+						</div><!-- ///// PB IRIZAR -->
 
 						<div role="tabpanel" class="tab-pane" id="pb-irizar"> <!-- PB IRIZAR -->
 							<div class="row galleryCarousel">
@@ -238,7 +331,7 @@
 											
 										<div class="row">
 											<div class="col-md-6"><img src="<?=base_url();?>img/gallery/gallery-logo-pbirizar.png" style="width: 325px; height: 185px;"></div> </br>
-											<div class="col-md-6"><img src="<?=base_url();?>img/gallery/gallery-logo-pbirizar-scania.png" style="width: 325px; height: 140px;"></div>
+											<div class="col-md-6"><img src="<?=base_url();?>img/gallery/gallery-logo-pbirizar-scania.png" style="width: 350px; height: 140px;"></div>
 										</div>	
 										
 										<h2>Descripción</h2>
@@ -315,7 +408,7 @@
 
 										<div class="row">
 											<div class="col-md-6"><img src="<?=base_url();?>img/gallery/gallery-logo-pbirizar.png" style="width: 325px; height: 185px;"></div> <br>
-											<div class="col-md-6"><img src="<?=base_url();?>img/gallery/gallery-logo-pbirizar-scania.png" style="width: 325px; height: 140px;"></div>
+											<div class="col-md-6"><img src="<?=base_url();?>img/gallery/gallery-logo-pbirizar-scania.png" style="width: 350px; height: 140px;"></div>
 										</div>
 
 										<h2>Descripción</h2>
