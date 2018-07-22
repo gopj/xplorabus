@@ -198,6 +198,7 @@
 	<script src="<?=base_url('plugins/smoothscroll/SmoothScroll.js')?>"> </script>
 	<script src="<?=base_url('js/custom.js')?>"> </script>
 
+<span id="siteseal"><script async type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=W6G3xjqhGmozm8d2ovRBxH9SUhVjORg1399kJ6WJZHHsTYgap8owYUKgNrHY"></script></span>
 
 </body>
 
