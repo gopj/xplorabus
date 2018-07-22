@@ -99,11 +99,11 @@
 		<div class="container">
 		<div class="row">
 			<div class="col-sm-6 col-xs-12">
-			<div class="footerContent">
-				<a href="<?= base_url(); ?>" class="footer-logo"><img src="<?=base_url('img/logo-color-sm.png"')?> alt="footer-logo" style="width:255px; height:100px;border:0;"></a>
-				<p>Pez Vela Travel Bus es una empresa con amplia experiencia en el servicio de renta de autobuses.
-				La calidad de nuestras unidades y la atención a nuestros clientes son nuestro mayor compromiso. </p>
-			</div>
+				<div class="footerContent">
+					<a href="<?= base_url(); ?>" class="footer-logo"><img src="<?=base_url('img/logo-color-sm.png"')?> alt="footer-logo" style="width:255px; height:100px;border:0;"></a>
+					<p>Pez Vela Travel Bus es una empresa con amplia experiencia en el servicio de renta de autobuses.
+					La calidad de nuestras unidades y la atención a nuestros clientes son nuestro mayor compromiso. </p>
+				</div>
 			</div>
 			
 			<div class="col-sm-6 col-xs-12">
@@ -119,6 +119,12 @@
 						<li><a href="https://plus.google.com/u/0/s/XPLORABUS%20PEZ%20VELA%20TRAVEL/top" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
 						<li><a href="https://www.youtube.com/channel/UC9Dso5uxH9qnHulirl09ayA" target="_blank"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
 					</ul>
+				</div>
+			</div>
+
+			<div class="col-sm-6 col-xs-12">
+				<div class="footerContent">
+					<span id="siteseal"><script async type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=W6G3xjqhGmozm8d2ovRBxH9SUhVjORg1399kJ6WJZHHsTYgap8owYUKgNrHY"></script></span>
 				</div>
 			</div>
 		</div>
@@ -193,8 +199,6 @@
 	<script src="<?=base_url('plugins/countdown/jquery.syotimer.js')?>"> </script>
 	<script src="<?=base_url('plugins/smoothscroll/SmoothScroll.js')?>"> </script>
 	<script src="<?=base_url('js/custom.js')?>"> </script>
-
-<span id="siteseal"><script async type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=W6G3xjqhGmozm8d2ovRBxH9SUhVjORg1399kJ6WJZHHsTYgap8owYUKgNrHY"></script></span>
 </body>
 
 </html>
