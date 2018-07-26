@@ -28,7 +28,7 @@
 				<br/>
 				<article class="">
 					<figure>
-						<?php $url = base_url() . "xplorame/sub_galeria/" . $carpetas['nombre'][$i]; ?>
+						<?php $url = base_url('xplorame/sub_galeria/') . $carpetas['nombre'][$i]; ?>
 						<img src="<?= $carpetas['f_dir'][$i]; ?>" alt="" height="150" width="42" onclick="window.open('<?= $url ?>')">
 						<div class="overlay-background">
 							<div class="inner"></div>

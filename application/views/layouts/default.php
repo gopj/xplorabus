@@ -104,7 +104,7 @@
 		<div class="row">
 			<div class="col-sm-6 col-xs-12">
 				<div class="footerContent">
-					<a href="<?= base_url(); ?>" class="footer-logo"><img src="<?=base_url('img/logo-color-sm.png"')?> alt="footer-logo" style="width:255px; height:100px;border:0;"></a>
+					<a href="<?= base_url(); ?>" class="footer-logo"><img src="<?=base_url('img/logo-color-sm.png')?> alt="footer-logo" style="width:255px; height:100px;border:0;"></a>
 					<p>Pez Vela Travel Bus es una empresa con amplia experiencia en el servicio de renta de autobuses.
 					La calidad de nuestras unidades y la atención a nuestros clientes son nuestro mayor compromiso. </p>
 				</div>
@@ -203,8 +203,6 @@
 	<script src="<?=base_url('plugins/countdown/jquery.syotimer.js')?>"> </script>
 	<script src="<?=base_url('plugins/smoothscroll/SmoothScroll.js')?>"> </script>
 	<script src="<?=base_url('js/custom.js')?>"> </script>
-
-<span id="siteseal"><script async type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=W6G3xjqhGmozm8d2ovRBxH9SUhVjORg1399kJ6WJZHHsTYgap8owYUKgNrHY"></script></span>
 
 </body>
 
